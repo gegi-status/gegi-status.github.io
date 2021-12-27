@@ -8,7 +8,9 @@ assignees: mdaoustUdeS
 ---
 
 ### Scheduled maintenance
+
 Affected services: _**TODO_ADD_SERVICE**_
+
 Lasting from _**TODO_ADD_HUMAN_READABLE_START**_ to _**TODO_ADD_HUMAN_READABLE_END**_
 
 <!--
