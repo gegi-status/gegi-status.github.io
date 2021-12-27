@@ -54,7 +54,7 @@ assignees:
 
 status-website:
   cname: gegi-status.github.io
-  logoUrl: https://www.usherbrooke.ca/communications/fileadmin/_processed_/0/2/csm_UdeS_logo_rgbHR_1dde4c4406.png
+  logoUrl: https://www.usherbrooke.ca/res/fileadmin/logo/UdeS_blanc.png
   name: GEGI status
   introTitle: "Status page for GEGI related websites"
   theme: dark
