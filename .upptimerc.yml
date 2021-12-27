@@ -33,22 +33,6 @@ sites:
       - 200
     maxResponseTime: 800
 
-  - name: Calendrier facultaire (prod)
-    url: https://www.gegi.usherbrooke.ca/calendrier-facultaire/
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 800
-  - name: Horarius (prod)
-    url: https://www.gel.usherbrooke.ca/horarius/
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 800
-  - name: Réservation (prod)
-    url: https://www.gel.usherbrooke.ca/reservation/
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 800
-
 assignees:
   - mdaoustudes
 
