@@ -20,6 +20,7 @@ sites:
     url: https://usherbrooke.sharepoint.com/sites/fgen
     expectedStatusCodes:
       - 200
+      - 403
     maxResponseTime: 800
   - name: Département GEGI website (prod)
     url: https://www.usherbrooke.ca/genie-electrique-informatique/
