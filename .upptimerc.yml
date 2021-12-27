@@ -1,31 +1,77 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: gegi-status
+repo: gegi-status.github.io
+user-agent: mdaoustudes
+
+skipTopicsUpdate: true
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: UdeS website (prod)
+    url: https://www.usherbrooke.ca/
+    icon: https://www.usherbrooke.ca/favicon.ico
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 800
+  - name: Faculté génie website (prod)
+    url: https://www.usherbrooke.ca/genie/
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 800
+  - name: Faculté génie (intranet)
+    url: https://usherbrooke.sharepoint.com/sites/fgen
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 800
+  - name: Département GEGI website (prod)
+    url: https://www.usherbrooke.ca/genie-electrique-informatique/
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 800
+  - name: Département GEGI (intranet)
+    url: https://www.usherbrooke.ca/intranet-genie-electrique-informatique/
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 800
+
+  - name: Calendrier facultaire (prod)
+    url: https://www.gegi.usherbrooke.ca/calendrier-facultaire/
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 800
+  - name: Horarius (prod)
+    url: https://www.gel.usherbrooke.ca/horarius/
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 800
+  - name: Réservation (prod)
+    url: https://www.gel.usherbrooke.ca/reservation/
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 800
+
+assignees:
+  - mdaoustudes
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: gegi-status.github.io
+  logoUrl: https://www.usherbrooke.ca/communications/fileadmin/_processed_/0/2/csm_UdeS_logo_rgbHR_1dde4c4406.png
+  name: GEGI status
+  introTitle: "Status page for GEGI related websites"
+  theme: dark
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: UdeS status
+      href: https://etatdesservices.usherbrooke.ca/
+
+i18n:
+  footer: This page is [open source]($REPO)
+
+workflowSchedule:
+  graphs: "0 0 * * *" #At 00:00.
+  responseTime: "0 23 * * *" #At 23:00.
+  staticSite: "0 1 * * *" #At 01:00.
+  summary: "0 0 * * *" #At 00:00.
+  updateTemplate: "0 0 * * *" #At 00:00.
+  updates: "0 3 * * *" #At 03:00.
+  uptime: "*/5 * * * *" #At every 5th minute.
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
