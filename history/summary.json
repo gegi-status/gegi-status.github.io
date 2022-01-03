@@ -4,36 +4,40 @@
     "url": "https://www.usherbrooke.ca/",
     "icon": "https://www.usherbrooke.ca/favicon.ico",
     "slug": "ude-s-website-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 398,
-    "timeDay": 355,
-    "timeWeek": 398,
-    "timeMonth": 398,
-    "timeYear": 398,
-    "dailyMinutesDown": {}
+    "time": 394,
+    "timeDay": 306,
+    "timeWeek": 378,
+    "timeMonth": 394,
+    "timeYear": 394,
+    "dailyMinutesDown": {
+      "2022-01-03": 0
+    }
   },
   {
     "name": "Faculté génie website (prod)",
     "url": "https://www.usherbrooke.ca/genie/",
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "faculte-genie-website-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 204,
-    "timeDay": 169,
-    "timeWeek": 204,
-    "timeMonth": 204,
-    "timeYear": 204,
-    "dailyMinutesDown": {}
+    "time": 203,
+    "timeDay": 173,
+    "timeWeek": 182,
+    "timeMonth": 203,
+    "timeYear": 203,
+    "dailyMinutesDown": {
+      "2022-01-03": 0
+    }
   },
   {
     "name": "Faculté génie (intranet)",
@@ -46,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 242,
-    "timeDay": 166,
-    "timeWeek": 242,
-    "timeMonth": 242,
-    "timeYear": 242,
+    "time": 238,
+    "timeDay": 162,
+    "timeWeek": 201,
+    "timeMonth": 238,
+    "timeYear": 238,
     "dailyMinutesDown": {}
   },
   {
@@ -58,36 +62,40 @@
     "url": "https://www.usherbrooke.ca/genie-electrique-informatique/",
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "departement-gegi-website-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 160,
-    "timeDay": 143,
-    "timeWeek": 160,
-    "timeMonth": 160,
-    "timeYear": 160,
-    "dailyMinutesDown": {}
+    "time": 159,
+    "timeDay": 138,
+    "timeWeek": 144,
+    "timeMonth": 159,
+    "timeYear": 159,
+    "dailyMinutesDown": {
+      "2022-01-03": 0
+    }
   },
   {
     "name": "Département GEGI (intranet)",
     "url": "https://www.usherbrooke.ca/intranet-genie-electrique-informatique/",
     "icon": "https://favicons.githubusercontent.com/www.usherbrooke.ca",
     "slug": "departement-gegi-intranet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 136,
-    "timeWeek": 149,
+    "timeDay": 143,
+    "timeWeek": 138,
     "timeMonth": 149,
     "timeYear": 149,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-03": 0
+    }
   },
   {
     "name": "Calendrier facultaire (prod)",
@@ -100,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 182,
-    "timeDay": 115,
-    "timeWeek": 182,
-    "timeMonth": 182,
-    "timeYear": 182,
+    "time": 174,
+    "timeDay": 110,
+    "timeWeek": 174,
+    "timeMonth": 174,
+    "timeYear": 174,
     "dailyMinutesDown": {}
   },
   {
@@ -112,35 +120,39 @@
     "url": "https://www.gel.usherbrooke.ca/horarius/",
     "icon": "https://favicons.githubusercontent.com/www.gel.usherbrooke.ca",
     "slug": "horarius-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 352,
-    "timeDay": 381,
-    "timeWeek": 352,
-    "timeMonth": 352,
-    "timeYear": 352,
-    "dailyMinutesDown": {}
+    "time": 354,
+    "timeDay": 364,
+    "timeWeek": 354,
+    "timeMonth": 354,
+    "timeYear": 354,
+    "dailyMinutesDown": {
+      "2022-01-03": 0
+    }
   },
   {
     "name": "Réservation (prod)",
     "url": "https://www.gel.usherbrooke.ca/reservation/",
     "icon": "https://favicons.githubusercontent.com/www.gel.usherbrooke.ca",
     "slug": "reservation-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 75,
-    "timeDay": 55,
-    "timeWeek": 75,
-    "timeMonth": 75,
-    "timeYear": 75,
-    "dailyMinutesDown": {}
+    "time": 74,
+    "timeDay": 67,
+    "timeWeek": 74,
+    "timeMonth": 74,
+    "timeYear": 74,
+    "dailyMinutesDown": {
+      "2022-01-03": 0
+    }
   }
 ]
