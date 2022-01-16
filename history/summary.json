@@ -112,19 +112,19 @@
     "url": "https://www.gel.usherbrooke.ca/horarius/",
     "icon": "https://favicons.githubusercontent.com/www.gel.usherbrooke.ca",
     "slug": "horarius-prod",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 357,
-    "timeDay": 378,
-    "timeWeek": 329,
-    "timeMonth": 357,
-    "timeYear": 357,
+    "status": "up",
+    "uptime": "99.34%",
+    "uptimeDay": "86.95%",
+    "uptimeWeek": "98.14%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.34%",
+    "time": 359,
+    "timeDay": 392,
+    "timeWeek": 338,
+    "timeMonth": 359,
+    "timeYear": 359,
     "dailyMinutesDown": {
-      "2022-01-16": 2
+      "2022-01-16": 188
     }
   },
   {
@@ -132,19 +132,19 @@
     "url": "https://www.gel.usherbrooke.ca/reservation/",
     "icon": "https://favicons.githubusercontent.com/www.gel.usherbrooke.ca",
     "slug": "reservation-prod",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.35%",
+    "uptimeDay": "87.06%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.35%",
     "time": 81,
-    "timeDay": 104,
+    "timeDay": 92,
     "timeWeek": 81,
     "timeMonth": 81,
     "timeYear": 81,
     "dailyMinutesDown": {
-      "2022-01-16": 0
+      "2022-01-16": 186
     }
   }
 ]
