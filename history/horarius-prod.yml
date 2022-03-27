@@ -1,7 +1,7 @@
 url: https://www.gel.usherbrooke.ca/horarius/
-status: down
+status: degraded
 code: 400
-responseTime: 301
-lastUpdated: 2022-03-27T17:31:52.815Z
+responseTime: 849
+lastUpdated: 2022-03-27T17:57:13.956Z
 startTime: Mon Dec 27 2021 21:10:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
