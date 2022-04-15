@@ -20,7 +20,7 @@ sites:
     url: https://usherbrooke.sharepoint.com/sites/fgen
     expectedStatusCodes:
       - 200
-      - 403
+      - 403 #Forbidden (Authentication redirect)
     maxResponseTime: 800
   - name: Département GEGI website (prod)
     url: https://www.usherbrooke.ca/genie-electrique-informatique/
@@ -42,11 +42,13 @@ sites:
     url: https://www.gel.usherbrooke.ca/horarius/
     expectedStatusCodes:
       - 200
+      - 403 #Forbidden (Authentication redirect)
     maxResponseTime: 800
   - name: Réservation (prod)
     url: https://www.gel.usherbrooke.ca/reservation/
     expectedStatusCodes:
       - 200
+      - 403 #Forbidden (Authentication redirect)
     maxResponseTime: 800
 
 assignees:
