@@ -69,7 +69,7 @@ i18n:
 
 workflowSchedule:
   graphs: "0 0 * * *" #At 00:00.
-  responseTime: "0 23 * * *" #At 23:00.
+  responseTime: "0 5,11,17,23 * * *" #At 05:00, 11:00, 17:00 and 23:00.
   staticSite: "0 1 * * *" #At 01:00.
   summary: "0 0 * * *" #At 00:00.
   updateTemplate: "0 0 * * *" #At 00:00.
