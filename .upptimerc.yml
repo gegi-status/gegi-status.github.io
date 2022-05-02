@@ -48,7 +48,7 @@ sites:
     url: https://www.gegi.usherbrooke.ca/reservation/
     expectedStatusCodes:
       - 200
-      - 500 #(Authentication redirect)
+      - 400 #(Authentication redirect)
     maxResponseTime: 800
 
 assignees:
