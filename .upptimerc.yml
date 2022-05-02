@@ -42,13 +42,13 @@ sites:
     url: https://www.gegi.usherbrooke.ca/horarius/
     expectedStatusCodes:
       - 200
-      - 302 #Found (Authentication redirect)
+      - 400 #(Authentication redirect)
     maxResponseTime: 800
   - name: Réservation (prod)
     url: https://www.gegi.usherbrooke.ca/reservation/
     expectedStatusCodes:
       - 200
-      - 302 #Found (Authentication redirect)
+      - 500 #(Authentication redirect)
     maxResponseTime: 800
 
 assignees:
