@@ -1,7 +1,7 @@
 url: https://www.usherbrooke.ca/intranet-genie-electrique-informatique/
-status: degraded
+status: down
 code: 404
-responseTime: 977
-lastUpdated: 2023-03-16T17:47:15.080Z
+responseTime: 151
+lastUpdated: 2023-03-16T17:59:57.458Z
 startTime: Mon Dec 27 2021 03:07:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
