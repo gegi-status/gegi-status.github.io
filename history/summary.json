@@ -11,9 +11,9 @@
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.82%",
     "time": 519,
-    "timeDay": 545,
-    "timeWeek": 536,
-    "timeMonth": 530,
+    "timeDay": 570,
+    "timeWeek": 535,
+    "timeMonth": 532,
     "timeYear": 519,
     "dailyMinutesDown": {
       "2023-06-14": 32,
@@ -41,8 +41,7 @@
       "2022-07-13": 33,
       "2022-07-12": 11,
       "2022-07-08": 45,
-      "2022-07-05": 42,
-      "2022-06-30": 16
+      "2022-07-05": 42
     }
   },
   {
@@ -57,9 +56,9 @@
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.73%",
     "time": 428,
-    "timeDay": 459,
-    "timeWeek": 453,
-    "timeMonth": 445,
+    "timeDay": 455,
+    "timeWeek": 456,
+    "timeMonth": 446,
     "timeYear": 430,
     "dailyMinutesDown": {
       "2023-06-14": 32,
@@ -91,8 +90,7 @@
       "2022-07-13": 33,
       "2022-07-12": 11,
       "2022-07-08": 45,
-      "2022-07-05": 42,
-      "2022-06-30": 16
+      "2022-07-05": 42
     }
   },
   {
@@ -107,9 +105,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 308,
-    "timeDay": 295,
-    "timeWeek": 299,
-    "timeMonth": 294,
+    "timeDay": 286,
+    "timeWeek": 303,
+    "timeMonth": 293,
     "timeYear": 308,
     "dailyMinutesDown": {}
   },
@@ -125,9 +123,9 @@
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.84%",
     "time": 287,
-    "timeDay": 314,
-    "timeWeek": 295,
-    "timeMonth": 294,
+    "timeDay": 313,
+    "timeWeek": 300,
+    "timeMonth": 293,
     "timeYear": 287,
     "dailyMinutesDown": {
       "2023-06-14": 32,
@@ -152,8 +150,7 @@
       "2022-07-13": 33,
       "2022-07-12": 10,
       "2022-07-08": 45,
-      "2022-07-05": 41,
-      "2022-06-30": 16
+      "2022-07-05": 41
     }
   },
   {
@@ -162,18 +159,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "departement-gegi-intranet",
     "status": "down",
-    "uptime": "68.84%",
+    "uptime": "68.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "53.23%",
+    "uptimeYear": "52.99%",
     "time": 211,
-    "timeDay": 422,
-    "timeWeek": 178,
-    "timeMonth": 148,
+    "timeDay": 394,
+    "timeWeek": 179,
+    "timeMonth": 147,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2023-06-29": 230,
+      "2023-06-30": 46,
+      "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
@@ -357,8 +355,7 @@
       "2022-07-13": 33,
       "2022-07-12": 10,
       "2022-07-08": 45,
-      "2022-07-05": 41,
-      "2022-06-30": 16
+      "2022-07-05": 41
     }
   },
   {
@@ -373,8 +370,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 206,
-    "timeDay": 238,
-    "timeWeek": 219,
+    "timeDay": 221,
+    "timeWeek": 220,
     "timeMonth": 216,
     "timeYear": 206,
     "dailyMinutesDown": {
@@ -397,8 +394,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 357,
-    "timeDay": 397,
-    "timeWeek": 402,
+    "timeDay": 385,
+    "timeWeek": 404,
     "timeMonth": 373,
     "timeYear": 357,
     "dailyMinutesDown": {
@@ -423,8 +420,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 155,
-    "timeDay": 178,
-    "timeWeek": 174,
+    "timeDay": 173,
+    "timeWeek": 176,
     "timeMonth": 164,
     "timeYear": 155,
     "dailyMinutesDown": {
