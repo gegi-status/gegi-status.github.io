@@ -1,7 +1,7 @@
 url: https://www.gegi.usherbrooke.ca/calendrier-facultaire/
-status: down
+status: degraded
 code: 403
-responseTime: 420
-lastUpdated: 2023-09-04T05:05:12.004Z
+responseTime: 801
+lastUpdated: 2023-09-04T06:56:29.384Z
 startTime: 2021-12-27T21:10:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
