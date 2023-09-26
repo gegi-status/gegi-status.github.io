@@ -11,8 +11,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.85%",
     "time": 524,
-    "timeDay": 478,
-    "timeWeek": 473,
+    "timeDay": 473,
+    "timeWeek": 472,
     "timeMonth": 474,
     "timeYear": 524,
     "dailyMinutesDown": {
@@ -37,8 +37,7 @@
       "2022-12-12": 42,
       "2022-12-11": 16,
       "2022-11-06": 36,
-      "2022-10-30": 18,
-      "2022-09-26": 65
+      "2022-10-30": 18
     }
   },
   {
@@ -53,8 +52,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.76%",
     "time": 432,
-    "timeDay": 372,
-    "timeWeek": 358,
+    "timeDay": 385,
+    "timeWeek": 360,
     "timeMonth": 354,
     "timeYear": 432,
     "dailyMinutesDown": {
@@ -82,8 +81,7 @@
       "2022-12-11": 16,
       "2022-11-29": 17,
       "2022-11-06": 36,
-      "2022-10-30": 18,
-      "2022-09-26": 65
+      "2022-10-30": 18
     }
   },
   {
@@ -98,8 +96,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 303,
-    "timeDay": 241,
-    "timeWeek": 283,
+    "timeDay": 261,
+    "timeWeek": 285,
     "timeMonth": 283,
     "timeYear": 304,
     "dailyMinutesDown": {}
@@ -116,8 +114,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.89%",
     "time": 285,
-    "timeDay": 200,
-    "timeWeek": 217,
+    "timeDay": 208,
+    "timeWeek": 218,
     "timeMonth": 220,
     "timeYear": 286,
     "dailyMinutesDown": {
@@ -136,8 +134,7 @@
       "2022-12-14": 23,
       "2022-12-11": 16,
       "2022-11-06": 36,
-      "2022-10-30": 18,
-      "2022-09-26": 65
+      "2022-10-30": 18
     }
   },
   {
@@ -150,14 +147,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "28.95%",
+    "uptimeYear": "28.93%",
     "time": 196,
-    "timeDay": 170,
-    "timeWeek": 163,
+    "timeDay": 178,
+    "timeWeek": 165,
     "timeMonth": 141,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2023-09-25": 1367,
+      "2023-09-26": 35,
+      "2023-09-25": 1440,
       "2023-09-24": 1440,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
@@ -420,8 +418,7 @@
       "2022-12-14": 23,
       "2022-12-11": 16,
       "2022-11-06": 36,
-      "2022-10-30": 18,
-      "2022-09-26": 65
+      "2022-10-30": 18
     }
   },
   {
@@ -430,18 +427,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "calendrier-facultaire-prod",
     "status": "down",
-    "uptime": "92.30%",
+    "uptime": "92.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "86.56%",
+    "uptimeYear": "86.54%",
     "time": 253,
-    "timeDay": 556,
-    "timeWeek": 384,
+    "timeDay": 576,
+    "timeWeek": 387,
     "timeMonth": 477,
-    "timeYear": 255,
+    "timeYear": 256,
     "dailyMinutesDown": {
-      "2023-09-25": 1367,
+      "2023-09-26": 36,
+      "2023-09-25": 1440,
       "2023-09-24": 1440,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
@@ -504,18 +502,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "horarius-prod",
     "status": "down",
-    "uptime": "92.29%",
+    "uptime": "92.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "86.55%",
+    "uptimeYear": "86.53%",
     "time": 324,
-    "timeDay": 45,
-    "timeWeek": 49,
+    "timeDay": 49,
+    "timeWeek": 50,
     "timeMonth": 62,
     "timeYear": 324,
     "dailyMinutesDown": {
-      "2023-09-25": 1368,
+      "2023-09-26": 36,
+      "2023-09-25": 1440,
       "2023-09-24": 1440,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
@@ -579,18 +578,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "reservation-prod",
     "status": "down",
-    "uptime": "92.29%",
+    "uptime": "92.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "86.56%",
+    "uptimeYear": "86.54%",
     "time": 145,
-    "timeDay": 45,
+    "timeDay": 49,
     "timeWeek": 50,
     "timeMonth": 56,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2023-09-25": 1368,
+      "2023-09-26": 36,
+      "2023-09-25": 1440,
       "2023-09-24": 1440,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
