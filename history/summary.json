@@ -88,8 +88,8 @@
     "slug": "departement-gegi-intranet",
     "status": "up",
     "uptime": "46.24%",
-    "uptimeDay": "14.23%",
-    "uptimeWeek": "2.03%",
+    "uptimeDay": "14.36%",
+    "uptimeWeek": "2.05%",
     "uptimeMonth": "5.14%",
     "uptimeYear": "0.00%",
     "time": 169,
@@ -482,7 +482,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-24": 205
+      "2024-03-24": 207
     }
   },
   {
@@ -538,7 +538,7 @@
     "timeMonth": 0,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2024-03-24": 599,
+      "2024-03-24": 601,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
       "2024-03-21": 1440,
@@ -788,7 +788,7 @@
     "timeMonth": 0,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2024-03-24": 600,
+      "2024-03-24": 601,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
       "2024-03-21": 1440,
@@ -1031,14 +1031,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "37.15%",
+    "uptimeYear": "37.14%",
     "time": 114,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2024-03-24": 600,
+      "2024-03-24": 602,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
       "2024-03-21": 1440,
