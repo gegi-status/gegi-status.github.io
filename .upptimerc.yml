@@ -55,12 +55,6 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 800
-  - name: Temporary Calendrier facultaire (prod) (skip verifying the certificate host)
-    url: https://www.gegi.usherbrooke.ca/calendrier-facultaire/
-    __dangerous__disable_verify_host: true
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 800
   - name: Horarius (prod)
     url: https://www.gegi.usherbrooke.ca/horarius/
     expectedStatusCodes:
@@ -73,12 +67,6 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 800
-  - name: Temporary Horarius (prod) (skip verifying the certificate host)
-    url: https://www.gegi.usherbrooke.ca/horarius/
-    __dangerous__disable_verify_host: true
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 800
   - name: Réservation (prod)
     url: https://www.gegi.usherbrooke.ca/reservation/
     expectedStatusCodes:
@@ -88,12 +76,6 @@ sites:
   - name: Temporary Réservation (prod) (skip verifying the certificate peer)
     url: https://www.gegi.usherbrooke.ca/reservation/
     __dangerous__disable_verify_peer: true
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 800
-  - name: Temporary Réservation (prod) (skip verifying the certificate host)
-    url: https://www.gegi.usherbrooke.ca/reservation/
-    __dangerous__disable_verify_host: true
     expectedStatusCodes:
       - 200
     maxResponseTime: 800
