@@ -127,7 +127,7 @@ workflowSchedule:
   summary: "0 0 * * *" #At 00:00.
   updateTemplate: "0 0 * * *" #At 00:00.
   updates: "0 3 * * *" #At 03:00.
-  uptime: "*/5 * * * *" #At every 5th minute.
+  uptime: "*/10 * * * *" #At every 10th minute.
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
