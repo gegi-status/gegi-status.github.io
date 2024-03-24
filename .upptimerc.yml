@@ -91,6 +91,18 @@ sites:
       - 200
       - 400 #(Authentication redirect)
     maxResponseTime: 800
+  - name: Temporary Réservation (prod) (skip verifying the certificate peer)
+    url: https://www.gegi.usherbrooke.ca/reservation/
+    __dangerous__disable_verify_peer: true
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 800
+  - name: Temporary Réservation (prod) (skip verifying the certificate host)
+    url: https://www.gegi.usherbrooke.ca/reservation/
+    __dangerous__disable_verify_host: true
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 800
 
 assignees:
   - mdaoustudes
