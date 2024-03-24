@@ -28,11 +28,16 @@ sites:
       - 200
     maxResponseTime: 800
   - name: Département GEGI (intranet)
-    url: https://www.usherbrooke.ca/intranet-genie-electrique-informatique/
+    url: https://www.usherbrooke.ca/genie-electrique-informatique/espace-wiki
     expectedStatusCodes:
       - 200
     maxResponseTime: 800
 
+  - name: Wiki GEGI (prod)
+    url: https://wiki.gegi.usherbrooke.ca/
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 800
   - name: Calendrier facultaire (prod)
     url: https://www.gegi.usherbrooke.ca/calendrier-facultaire/
     expectedStatusCodes:
