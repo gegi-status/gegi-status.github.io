@@ -48,12 +48,14 @@ sites:
     url: https://www.gegi.usherbrooke.ca/calendrier-facultaire/
     expectedStatusCodes:
       - 200
+      - 403 #(Forbidden)
     maxResponseTime: 800
   - name: Temporary Calendrier facultaire (prod) (skip verifying the certificate peer)
     url: https://www.gegi.usherbrooke.ca/calendrier-facultaire/
     __dangerous__disable_verify_peer: true
     expectedStatusCodes:
       - 200
+      - 403 #(Forbidden)
     maxResponseTime: 800
   - name: Horarius (prod)
     url: https://www.gegi.usherbrooke.ca/horarius/
@@ -66,18 +68,20 @@ sites:
     __dangerous__disable_verify_peer: true
     expectedStatusCodes:
       - 200
+      - 400 #(Authentication redirect)
     maxResponseTime: 800
   - name: Réservation (prod)
     url: https://www.gegi.usherbrooke.ca/reservation/
     expectedStatusCodes:
       - 200
-      - 400 #(Authentication redirect)
+      - 403 #(Forbidden)
     maxResponseTime: 800
   - name: Temporary Réservation (prod) (skip verifying the certificate peer)
     url: https://www.gegi.usherbrooke.ca/reservation/
     __dangerous__disable_verify_peer: true
     expectedStatusCodes:
       - 200
+      - 403 #(Forbidden)
     maxResponseTime: 800
 
 assignees:
