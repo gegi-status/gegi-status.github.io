@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 509,
-    "timeDay": 409,
-    "timeWeek": 469,
+    "timeDay": 407,
+    "timeWeek": 468,
     "timeMonth": 444,
     "timeYear": 508,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 414,
-    "timeDay": 305,
+    "timeDay": 310,
     "timeWeek": 326,
     "timeMonth": 324,
     "timeYear": 413,
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 220,
-    "timeWeek": 230,
-    "timeMonth": 218,
+    "timeDay": 227,
+    "timeWeek": 231,
+    "timeMonth": 219,
     "timeYear": 286,
     "dailyMinutesDown": {}
   },
@@ -72,10 +72,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 254,
-    "timeDay": 164,
+    "timeDay": 168,
     "timeWeek": 194,
     "timeMonth": 204,
-    "timeYear": 253,
+    "timeYear": 252,
     "dailyMinutesDown": {
       "2023-06-05": 134,
       "2023-06-04": 12
@@ -88,14 +88,14 @@
     "slug": "departement-gegi-intranet",
     "status": "up",
     "uptime": "46.24%",
-    "uptimeDay": "14.36%",
-    "uptimeWeek": "2.05%",
-    "uptimeMonth": "5.14%",
+    "uptimeDay": "14.96%",
+    "uptimeWeek": "2.14%",
+    "uptimeMonth": "5.16%",
     "uptimeYear": "0.00%",
     "time": 169,
-    "timeDay": 143,
-    "timeWeek": 156,
-    "timeMonth": 157,
+    "timeDay": 150,
+    "timeWeek": 157,
+    "timeMonth": 158,
     "timeYear": 167,
     "dailyMinutesDown": {
       "2024-03-24": 394,
@@ -482,7 +482,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-24": 207
+      "2024-03-24": 216
     }
   },
   {
@@ -496,11 +496,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 574,
-    "timeDay": 574,
-    "timeWeek": 574,
-    "timeMonth": 574,
-    "timeYear": 574,
+    "time": 671,
+    "timeDay": 671,
+    "timeWeek": 671,
+    "timeMonth": 671,
+    "timeYear": 671,
     "dailyMinutesDown": {}
   },
   {
@@ -538,7 +538,7 @@
     "timeMonth": 0,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2024-03-24": 601,
+      "2024-03-24": 610,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
       "2024-03-21": 1440,
@@ -772,6 +772,42 @@
     }
   },
   {
+    "name": "Temporary Calendrier facultaire (prod) (skip verifying the certificate peer)",
+    "url": "https://www.gegi.usherbrooke.ca/calendrier-facultaire/",
+    "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
+    "slug": "temporary-calendrier-facultaire-prod-skip-verifying-the-certificate-peer",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 225,
+    "timeDay": 225,
+    "timeWeek": 225,
+    "timeMonth": 225,
+    "timeYear": 225,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Temporary Calendrier facultaire (prod) (skip verifying the certificate host)",
+    "url": "https://www.gegi.usherbrooke.ca/calendrier-facultaire/",
+    "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
+    "slug": "temporary-calendrier-facultaire-prod-skip-verifying-the-certificate-host",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Horarius (prod)",
     "url": "https://www.gegi.usherbrooke.ca/horarius/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
@@ -788,7 +824,7 @@
     "timeMonth": 0,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2024-03-24": 601,
+      "2024-03-24": 610,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
       "2024-03-21": 1440,
@@ -1038,7 +1074,7 @@
     "timeMonth": 0,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2024-03-24": 602,
+      "2024-03-24": 610,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
       "2024-03-21": 1440,
