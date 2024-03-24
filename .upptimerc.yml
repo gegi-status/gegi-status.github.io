@@ -44,12 +44,6 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 800
-  - name: Temporary Wiki GEGI (prod) (skip verifying the certificate host)
-    url: https://wiki.gegi.usherbrooke.ca/
-    __dangerous__disable_verify_host: true
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 800
   - name: Calendrier facultaire (prod)
     url: https://www.gegi.usherbrooke.ca/calendrier-facultaire/
     expectedStatusCodes:
