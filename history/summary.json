@@ -411,7 +411,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-12": 1048,
+      "2024-06-12": 1061,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
@@ -499,17 +499,17 @@
     "url": "https://wiki.gegi.usherbrooke.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.gegi.usherbrooke.ca.ico",
     "slug": "temporary-wiki-gegi-prod-skip-verifying-the-certificate-peer",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 658,
-    "timeDay": 819,
+    "time": 657,
+    "timeDay": 807,
     "timeWeek": 674,
     "timeMonth": 652,
-    "timeYear": 658,
+    "timeYear": 657,
     "dailyMinutesDown": {}
   },
   {
@@ -529,7 +529,7 @@
     "timeMonth": 0,
     "timeYear": 339,
     "dailyMinutesDown": {
-      "2024-06-12": 1048,
+      "2024-06-12": 1061,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
@@ -877,7 +877,7 @@
     "timeMonth": 0,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2024-06-12": 1049,
+      "2024-06-12": 1061,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
@@ -1225,7 +1225,7 @@
     "timeMonth": 0,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2024-06-12": 1049,
+      "2024-06-12": 1061,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
