@@ -12,7 +12,7 @@
     "uptimeYear": "98.37%",
     "time": 461,
     "timeDay": 418,
-    "timeWeek": 417,
+    "timeWeek": 413,
     "timeMonth": 415,
     "timeYear": 458,
     "dailyMinutesDown": {
@@ -45,7 +45,7 @@
     "uptimeYear": "98.38%",
     "time": 353,
     "timeDay": 272,
-    "timeWeek": 257,
+    "timeWeek": 256,
     "timeMonth": 274,
     "timeYear": 349,
     "dailyMinutesDown": {
@@ -76,7 +76,7 @@
     "uptimeYear": "100.00%",
     "time": 268,
     "timeDay": 261,
-    "timeWeek": 251,
+    "timeWeek": 250,
     "timeMonth": 322,
     "timeYear": 268,
     "dailyMinutesDown": {}
@@ -94,7 +94,7 @@
     "uptimeYear": "98.38%",
     "time": 208,
     "timeDay": 150,
-    "timeWeek": 154,
+    "timeWeek": 153,
     "timeMonth": 158,
     "timeYear": 203,
     "dailyMinutesDown": {
@@ -121,10 +121,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "35.30%",
+    "uptimeYear": "35.31%",
     "time": 168,
     "timeDay": 155,
-    "timeWeek": 156,
+    "timeWeek": 155,
     "timeMonth": 162,
     "timeYear": 169,
     "dailyMinutesDown": {
@@ -387,7 +387,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-07": 42,
+      "2024-08-07": 97,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
@@ -531,14 +531,14 @@
     "url": "https://wiki.gegi.usherbrooke.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.gegi.usherbrooke.ca.ico",
     "slug": "temporary-wiki-gegi-prod-skip-verifying-the-certificate-peer",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 658,
-    "timeDay": 662,
+    "timeDay": 661,
     "timeWeek": 659,
     "timeMonth": 658,
     "timeYear": 658,
@@ -561,7 +561,7 @@
     "timeMonth": 0,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2024-08-07": 43,
+      "2024-08-07": 97,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
@@ -941,7 +941,7 @@
     "uptimeYear": "100.00%",
     "time": 129,
     "timeDay": 133,
-    "timeWeek": 131,
+    "timeWeek": 129,
     "timeMonth": 131,
     "timeYear": 129,
     "dailyMinutesDown": {}
@@ -963,7 +963,7 @@
     "timeMonth": 0,
     "timeYear": 57,
     "dailyMinutesDown": {
-      "2024-08-07": 43,
+      "2024-08-07": 97,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
@@ -1343,7 +1343,7 @@
     "uptimeYear": "100.00%",
     "time": 287,
     "timeDay": 289,
-    "timeWeek": 286,
+    "timeWeek": 284,
     "timeMonth": 302,
     "timeYear": 287,
     "dailyMinutesDown": {}
@@ -1365,7 +1365,7 @@
     "timeMonth": 0,
     "timeYear": 52,
     "dailyMinutesDown": {
-      "2024-08-07": 43,
+      "2024-08-07": 97,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
@@ -1745,7 +1745,7 @@
     "uptimeYear": "100.00%",
     "time": 44,
     "timeDay": 45,
-    "timeWeek": 43,
+    "timeWeek": 42,
     "timeMonth": 44,
     "timeYear": 44,
     "dailyMinutesDown": {}
