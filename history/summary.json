@@ -69,19 +69,19 @@
     "url": "https://usherbrooke.sharepoint.com/sites/fgen",
     "icon": "https://icons.duckduckgo.com/ip3/usherbrooke.sharepoint.com.ico",
     "slug": "faculte-genie-intranet",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 266,
-    "timeDay": 453,
-    "timeWeek": 272,
-    "timeMonth": 260,
+    "timeDay": 445,
+    "timeWeek": 273,
+    "timeMonth": 261,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2024-09-03": 1
+      "2024-09-03": 18
     }
   },
   {
@@ -363,7 +363,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-03": 882,
+      "2024-09-03": 900,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -564,7 +564,7 @@
     "timeMonth": 0,
     "timeYear": 342,
     "dailyMinutesDown": {
-      "2024-09-03": 882,
+      "2024-09-03": 900,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -966,7 +966,7 @@
     "timeMonth": 0,
     "timeYear": 49,
     "dailyMinutesDown": {
-      "2024-09-03": 882,
+      "2024-09-03": 901,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -1368,7 +1368,7 @@
     "timeMonth": 0,
     "timeYear": 48,
     "dailyMinutesDown": {
-      "2024-09-03": 883,
+      "2024-09-03": 901,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
