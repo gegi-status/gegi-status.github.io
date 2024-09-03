@@ -122,7 +122,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "42.74%",
+    "uptimeYear": "42.75%",
     "time": 169,
     "timeDay": 139,
     "timeWeek": 150,
@@ -361,7 +361,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-03": 268,
+      "2024-09-03": 285,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -562,7 +562,7 @@
     "timeMonth": 0,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2024-09-03": 268,
+      "2024-09-03": 285,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -964,7 +964,7 @@
     "timeMonth": 0,
     "timeYear": 49,
     "dailyMinutesDown": {
-      "2024-09-03": 269,
+      "2024-09-03": 285,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -1336,7 +1336,7 @@
     "url": "https://www.gegi.usherbrooke.ca/horarius/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "temporary-horarius-prod-skip-verifying-the-certificate-peer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -1366,7 +1366,7 @@
     "timeMonth": 0,
     "timeYear": 48,
     "dailyMinutesDown": {
-      "2024-09-03": 269,
+      "2024-09-03": 286,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
