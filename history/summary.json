@@ -363,7 +363,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-04": 1423,
+      "2024-09-04": 1439,
       "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
@@ -535,15 +535,15 @@
     "url": "https://wiki.gegi.usherbrooke.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.gegi.usherbrooke.ca.ico",
     "slug": "temporary-wiki-gegi-prod-skip-verifying-the-certificate-peer",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 665,
-    "timeDay": 704,
-    "timeWeek": 700,
+    "timeDay": 707,
+    "timeWeek": 697,
     "timeMonth": 690,
     "timeYear": 665,
     "dailyMinutesDown": {}
@@ -563,9 +563,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 338,
+    "timeYear": 337,
     "dailyMinutesDown": {
-      "2024-09-04": 1423,
+      "2024-09-04": 1440,
       "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
@@ -967,7 +967,7 @@
     "timeMonth": 0,
     "timeYear": 49,
     "dailyMinutesDown": {
-      "2024-09-04": 1424,
+      "2024-09-04": 1440,
       "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
@@ -1369,7 +1369,8 @@
     "timeMonth": 0,
     "timeYear": 48,
     "dailyMinutesDown": {
-      "2024-09-04": 1424,
+      "2024-09-05": 0,
+      "2024-09-04": 1440,
       "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
@@ -1732,8 +1733,7 @@
       "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
-      "2023-09-07": 1440,
-      "2023-09-06": 1440
+      "2023-09-07": 1440
     }
   },
   {
