@@ -12,7 +12,7 @@
     "uptimeYear": "98.33%",
     "time": 435,
     "timeDay": 385,
-    "timeWeek": 388,
+    "timeWeek": 389,
     "timeMonth": 389,
     "timeYear": 435,
     "dailyMinutesDown": {
@@ -50,10 +50,10 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "98.33%",
     "time": 325,
-    "timeDay": 259,
-    "timeWeek": 248,
+    "timeDay": 263,
+    "timeWeek": 249,
     "timeMonth": 260,
-    "timeYear": 325,
+    "timeYear": 324,
     "dailyMinutesDown": {
       "2024-12-02": 66,
       "2024-11-03": 17,
@@ -85,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 259,
-    "timeDay": 290,
-    "timeWeek": 241,
-    "timeMonth": 246,
+    "timeDay": 293,
+    "timeWeek": 242,
+    "timeMonth": 247,
     "timeYear": 258,
     "dailyMinutesDown": {
       "2024-09-03": 18
@@ -132,13 +132,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "departement-gegi-intranet",
     "status": "up",
-    "uptime": "58.39%",
+    "uptime": "58.40%",
     "uptimeDay": "95.42%",
     "uptimeWeek": "99.35%",
     "uptimeMonth": "99.77%",
-    "uptimeYear": "67.51%",
+    "uptimeYear": "67.59%",
     "time": 168,
-    "timeDay": 151,
+    "timeDay": 152,
     "timeWeek": 142,
     "timeMonth": 149,
     "timeYear": 168,
@@ -269,8 +269,7 @@
       "2023-12-08": 1440,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
-      "2023-12-05": 1440,
-      "2023-12-04": 1440
+      "2023-12-05": 1440
     }
   },
   {
@@ -290,7 +289,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-02": 1117,
+      "2024-12-03": 54,
+      "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
@@ -570,7 +570,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "calendrier-facultaire-prod",
     "status": "down",
-    "uptime": "54.92%",
+    "uptime": "54.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -581,7 +581,8 @@
     "timeMonth": 0,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2024-12-02": 1117,
+      "2024-12-03": 54,
+      "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
@@ -944,8 +945,7 @@
       "2023-12-08": 1440,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
-      "2023-12-05": 1440,
-      "2023-12-04": 1440
+      "2023-12-05": 1440
     }
   },
   {
@@ -960,9 +960,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 141,
+    "timeDay": 139,
     "timeWeek": 127,
-    "timeMonth": 132,
+    "timeMonth": 133,
     "timeYear": 131,
     "dailyMinutesDown": {}
   },
@@ -972,7 +972,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "horarius-prod",
     "status": "down",
-    "uptime": "54.92%",
+    "uptime": "54.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -983,7 +983,8 @@
     "timeMonth": 0,
     "timeYear": 44,
     "dailyMinutesDown": {
-      "2024-12-02": 1118,
+      "2024-12-03": 55,
+      "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
@@ -1346,8 +1347,7 @@
       "2023-12-08": 1440,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
-      "2023-12-05": 1440,
-      "2023-12-04": 1440
+      "2023-12-05": 1440
     }
   },
   {
@@ -1362,8 +1362,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 289,
-    "timeWeek": 274,
+    "timeDay": 292,
+    "timeWeek": 273,
     "timeMonth": 283,
     "timeYear": 322,
     "dailyMinutesDown": {}
@@ -1374,7 +1374,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "reservation-prod",
     "status": "down",
-    "uptime": "54.92%",
+    "uptime": "54.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1385,7 +1385,8 @@
     "timeMonth": 0,
     "timeYear": 44,
     "dailyMinutesDown": {
-      "2024-12-02": 1118,
+      "2024-12-03": 55,
+      "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
@@ -1748,8 +1749,7 @@
       "2023-12-08": 1440,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
-      "2023-12-05": 1440,
-      "2023-12-04": 1440
+      "2023-12-05": 1440
     }
   },
   {
