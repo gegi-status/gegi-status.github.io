@@ -11,8 +11,8 @@
     "uptimeMonth": "99.69%",
     "uptimeYear": "98.30%",
     "time": 415,
-    "timeDay": 396,
-    "timeWeek": 421,
+    "timeDay": 392,
+    "timeWeek": 419,
     "timeMonth": 406,
     "timeYear": 411,
     "dailyMinutesDown": {
@@ -55,8 +55,8 @@
     "uptimeMonth": "99.69%",
     "uptimeYear": "98.30%",
     "time": 290,
-    "timeDay": 245,
-    "timeWeek": 257,
+    "timeDay": 253,
+    "timeWeek": 258,
     "timeMonth": 266,
     "timeYear": 288,
     "dailyMinutesDown": {
@@ -94,9 +94,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 254,
-    "timeDay": 231,
-    "timeWeek": 222,
-    "timeMonth": 260,
+    "timeDay": 240,
+    "timeWeek": 224,
+    "timeMonth": 259,
     "timeYear": 255,
     "dailyMinutesDown": {
       "2024-09-03": 18
@@ -114,8 +114,8 @@
     "uptimeMonth": "99.69%",
     "uptimeYear": "98.33%",
     "time": 169,
-    "timeDay": 142,
-    "timeWeek": 146,
+    "timeDay": 147,
+    "timeWeek": 147,
     "timeMonth": 147,
     "timeYear": 167,
     "dailyMinutesDown": {
@@ -145,14 +145,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "departement-gegi-intranet",
     "status": "up",
-    "uptime": "60.62%",
+    "uptime": "60.63%",
     "uptimeDay": "97.67%",
     "uptimeWeek": "99.47%",
     "uptimeMonth": "99.69%",
-    "uptimeYear": "84.22%",
+    "uptimeYear": "84.27%",
     "time": 161,
-    "timeDay": 142,
-    "timeWeek": 147,
+    "timeDay": 150,
+    "timeWeek": 148,
     "timeMonth": 165,
     "timeYear": 161,
     "dailyMinutesDown": {
@@ -225,8 +225,7 @@
       "2024-02-07": 1440,
       "2024-02-06": 1440,
       "2024-02-05": 1440,
-      "2024-02-04": 1440,
-      "2024-02-03": 1440
+      "2024-02-04": 1440
     }
   },
   {
@@ -246,7 +245,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-01": 1241,
+      "2025-02-02": 51,
+      "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
@@ -598,7 +598,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-01": 1242,
+      "2025-02-02": 51,
+      "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
@@ -961,8 +962,7 @@
       "2024-02-07": 1440,
       "2024-02-06": 1440,
       "2024-02-05": 1440,
-      "2024-02-04": 1440,
-      "2024-02-03": 1440
+      "2024-02-04": 1440
     }
   },
   {
@@ -977,8 +977,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 123,
-    "timeWeek": 126,
+    "timeDay": 135,
+    "timeWeek": 128,
     "timeMonth": 132,
     "timeYear": 132,
     "dailyMinutesDown": {}
@@ -1000,7 +1000,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-01": 1242,
+      "2025-02-02": 52,
+      "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
@@ -1363,8 +1364,7 @@
       "2024-02-07": 1440,
       "2024-02-06": 1440,
       "2024-02-05": 1440,
-      "2024-02-04": 1440,
-      "2024-02-03": 1440
+      "2024-02-04": 1440
     }
   },
   {
@@ -1379,8 +1379,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 316,
-    "timeDay": 271,
-    "timeWeek": 278,
+    "timeDay": 290,
+    "timeWeek": 280,
     "timeMonth": 286,
     "timeYear": 316,
     "dailyMinutesDown": {}
@@ -1402,7 +1402,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-01": 1243,
+      "2025-02-02": 52,
+      "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
@@ -1765,8 +1766,7 @@
       "2024-02-07": 1440,
       "2024-02-06": 1440,
       "2024-02-05": 1440,
-      "2024-02-04": 1440,
-      "2024-02-03": 1440
+      "2024-02-04": 1440
     }
   },
   {
@@ -1781,8 +1781,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 44,
-    "timeDay": 41,
-    "timeWeek": 42,
+    "timeDay": 45,
+    "timeWeek": 43,
     "timeMonth": 44,
     "timeYear": 44,
     "dailyMinutesDown": {}
