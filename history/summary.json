@@ -11,8 +11,8 @@
     "uptimeMonth": "99.02%",
     "uptimeYear": "98.08%",
     "time": 405,
-    "timeDay": 445,
-    "timeWeek": 403,
+    "timeDay": 433,
+    "timeWeek": 402,
     "timeMonth": 409,
     "timeYear": 405,
     "dailyMinutesDown": {
@@ -89,9 +89,9 @@
     "uptimeMonth": "99.02%",
     "uptimeYear": "98.07%",
     "time": 281,
-    "timeDay": 282,
-    "timeWeek": 267,
-    "timeMonth": 270,
+    "timeDay": 284,
+    "timeWeek": 268,
+    "timeMonth": 271,
     "timeYear": 281,
     "dailyMinutesDown": {
       "2025-04-17": 100,
@@ -163,8 +163,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 257,
-    "timeDay": 232,
-    "timeWeek": 226,
+    "timeDay": 238,
+    "timeWeek": 227,
     "timeMonth": 236,
     "timeYear": 258,
     "dailyMinutesDown": {
@@ -183,8 +183,8 @@
     "uptimeMonth": "99.02%",
     "uptimeYear": "98.11%",
     "time": 158,
-    "timeDay": 150,
-    "timeWeek": 150,
+    "timeDay": 152,
+    "timeWeek": 151,
     "timeMonth": 150,
     "timeYear": 158,
     "dailyMinutesDown": {
@@ -249,14 +249,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "departement-gegi-intranet",
     "status": "up",
-    "uptime": "63.00%",
+    "uptime": "63.01%",
     "uptimeDay": "96.30%",
     "uptimeWeek": "98.79%",
     "uptimeMonth": "99.13%",
     "uptimeYear": "98.09%",
     "time": 161,
-    "timeDay": 180,
-    "timeWeek": 159,
+    "timeDay": 185,
+    "timeWeek": 160,
     "timeMonth": 155,
     "timeYear": 161,
     "dailyMinutesDown": {
@@ -334,7 +334,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-17": 1290,
+      "2025-04-18": 53,
+      "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
@@ -697,8 +698,7 @@
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
-      "2024-04-19": 1440,
-      "2024-04-18": 1440
+      "2024-04-19": 1440
     }
   },
   {
@@ -736,7 +736,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-17": 1291,
+      "2025-04-18": 54,
+      "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
@@ -1099,8 +1100,7 @@
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
-      "2024-04-19": 1440,
-      "2024-04-18": 1440
+      "2024-04-19": 1440
     }
   },
   {
@@ -1115,9 +1115,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 123,
-    "timeWeek": 127,
-    "timeMonth": 132,
+    "timeDay": 129,
+    "timeWeek": 129,
+    "timeMonth": 133,
     "timeYear": 133,
     "dailyMinutesDown": {}
   },
@@ -1138,7 +1138,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-17": 1291,
+      "2025-04-18": 54,
+      "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
@@ -1501,8 +1502,7 @@
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
-      "2024-04-19": 1440,
-      "2024-04-18": 1440
+      "2024-04-19": 1440
     }
   },
   {
@@ -1517,10 +1517,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 314,
-    "timeDay": 273,
-    "timeWeek": 283,
-    "timeMonth": 294,
-    "timeYear": 315,
+    "timeDay": 292,
+    "timeWeek": 285,
+    "timeMonth": 295,
+    "timeYear": 316,
     "dailyMinutesDown": {}
   },
   {
@@ -1540,7 +1540,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-17": 1292,
+      "2025-04-18": 55,
+      "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
@@ -1903,8 +1904,7 @@
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
-      "2024-04-19": 1440,
-      "2024-04-18": 1440
+      "2024-04-19": 1440
     }
   },
   {
@@ -1919,7 +1919,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 45,
-    "timeDay": 41,
+    "timeDay": 43,
     "timeWeek": 43,
     "timeMonth": 44,
     "timeYear": 45,
