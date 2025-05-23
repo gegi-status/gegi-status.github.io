@@ -1,7 +1,7 @@
 url: https://www.gegi.usherbrooke.ca/horarius/
-status: down
-code: 502
-responseTime: 32
-lastUpdated: 2025-05-23T05:25:31.773Z
+status: up
+code: 400
+responseTime: 259
+lastUpdated: 2025-05-23T05:44:32.667Z
 startTime: 2024-03-24T10:14:02.888Z
 generator: Upptime <https://github.com/upptime/upptime>
