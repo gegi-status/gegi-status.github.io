@@ -6,12 +6,12 @@
     "slug": "ude-s-website-prod",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "96.31%",
+    "uptimeDay": "97.45%",
     "uptimeWeek": "99.30%",
     "uptimeMonth": "99.13%",
     "uptimeYear": "97.98%",
     "time": 408,
-    "timeDay": 467,
+    "timeDay": 444,
     "timeWeek": 437,
     "timeMonth": 421,
     "timeYear": 408,
@@ -99,12 +99,12 @@
     "slug": "faculte-genie-website-prod",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "96.34%",
+    "uptimeDay": "97.45%",
     "uptimeWeek": "99.30%",
     "uptimeMonth": "99.13%",
     "uptimeYear": "97.97%",
     "time": 281,
-    "timeDay": 307,
+    "timeDay": 302,
     "timeWeek": 290,
     "timeMonth": 278,
     "timeYear": 281,
@@ -209,12 +209,12 @@
     "slug": "departement-gegi-website-prod",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "96.39%",
+    "uptimeDay": "97.45%",
     "uptimeWeek": "99.30%",
     "uptimeMonth": "99.13%",
     "uptimeYear": "98.00%",
     "time": 156,
-    "timeDay": 144,
+    "timeDay": 140,
     "timeWeek": 149,
     "timeMonth": 148,
     "timeYear": 156,
@@ -298,12 +298,12 @@
     "slug": "departement-gegi-intranet",
     "status": "up",
     "uptime": "64.75%",
-    "uptimeDay": "96.41%",
+    "uptimeDay": "97.45%",
     "uptimeWeek": "99.30%",
     "uptimeMonth": "99.13%",
     "uptimeYear": "97.99%",
     "time": 159,
-    "timeDay": 148,
+    "timeDay": 145,
     "timeWeek": 150,
     "timeMonth": 148,
     "timeYear": 159,
@@ -399,7 +399,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-17": 1409,
+      "2025-06-18": 58,
+      "2025-06-17": 1440,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
@@ -762,8 +763,7 @@
       "2024-06-22": 1440,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
-      "2024-06-19": 1440,
-      "2024-06-18": 1440
+      "2024-06-19": 1440
     }
   },
   {
@@ -801,7 +801,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-17": 1409,
+      "2025-06-18": 59,
+      "2025-06-17": 1440,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
@@ -1164,8 +1165,7 @@
       "2024-06-22": 1440,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
-      "2024-06-19": 1440,
-      "2024-06-18": 1440
+      "2024-06-19": 1440
     }
   },
   {
@@ -1180,7 +1180,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 122,
+    "timeDay": 117,
     "timeWeek": 135,
     "timeMonth": 131,
     "timeYear": 134,
@@ -1203,7 +1203,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-17": 1410,
+      "2025-06-18": 59,
+      "2025-06-17": 1440,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
@@ -1566,8 +1567,7 @@
       "2024-06-22": 1440,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
-      "2024-06-19": 1440,
-      "2024-06-18": 1440
+      "2024-06-19": 1440
     }
   },
   {
@@ -1582,7 +1582,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 317,
-    "timeDay": 292,
+    "timeDay": 283,
     "timeWeek": 306,
     "timeMonth": 296,
     "timeYear": 318,
@@ -1605,7 +1605,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-17": 1410,
+      "2025-06-18": 60,
+      "2025-06-17": 1440,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
@@ -1968,8 +1969,7 @@
       "2024-06-22": 1440,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
-      "2024-06-19": 1440,
-      "2024-06-18": 1440
+      "2024-06-19": 1440
     }
   },
   {
@@ -1984,7 +1984,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 45,
-    "timeDay": 41,
+    "timeDay": 39,
     "timeWeek": 45,
     "timeMonth": 44,
     "timeYear": 45,
