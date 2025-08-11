@@ -6,13 +6,13 @@
     "slug": "ude-s-website-prod",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "98.83%",
-    "uptimeWeek": "95.55%",
-    "uptimeMonth": "98.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.01%",
+    "uptimeMonth": "98.56%",
     "uptimeYear": "99.52%",
     "time": 414,
-    "timeDay": 386,
-    "timeWeek": 581,
+    "timeDay": 450,
+    "timeWeek": 583,
     "timeMonth": 459,
     "timeYear": 414,
     "dailyMinutesDown": {
@@ -96,14 +96,14 @@
     "slug": "faculte-genie-website-prod",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "98.83%",
-    "uptimeWeek": "88.43%",
-    "uptimeMonth": "96.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "88.89%",
+    "uptimeMonth": "96.92%",
     "uptimeYear": "99.38%",
     "time": 288,
-    "timeDay": 294,
-    "timeWeek": 543,
-    "timeMonth": 346,
+    "timeDay": 258,
+    "timeWeek": 535,
+    "timeMonth": 345,
     "timeYear": 282,
     "dailyMinutesDown": {
       "2025-08-09": 17,
@@ -191,10 +191,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 247,
-    "timeDay": 187,
-    "timeWeek": 159,
-    "timeMonth": 231,
-    "timeYear": 247,
+    "timeDay": 146,
+    "timeWeek": 154,
+    "timeMonth": 227,
+    "timeYear": 246,
     "dailyMinutesDown": {
       "2024-09-03": 18
     }
@@ -206,14 +206,14 @@
     "slug": "departement-gegi-website-prod",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "98.82%",
-    "uptimeWeek": "89.48%",
-    "uptimeMonth": "97.12%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "89.94%",
+    "uptimeMonth": "97.16%",
     "uptimeYear": "99.41%",
     "time": 162,
-    "timeDay": 161,
-    "timeWeek": 458,
-    "timeMonth": 229,
+    "timeDay": 180,
+    "timeWeek": 454,
+    "timeMonth": 230,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2025-08-09": 17,
@@ -296,13 +296,13 @@
     "slug": "departement-gegi-intranet",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "98.82%",
-    "uptimeWeek": "90.21%",
-    "uptimeMonth": "97.29%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "90.67%",
+    "uptimeMonth": "97.33%",
     "uptimeYear": "99.44%",
     "time": 165,
-    "timeDay": 161,
-    "timeWeek": 454,
+    "timeDay": 136,
+    "timeWeek": 445,
     "timeMonth": 232,
     "timeYear": 165,
     "dailyMinutesDown": {
@@ -395,7 +395,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-10": 67,
+      "2025-08-11": 64,
+      "2025-08-10": 1440,
       "2025-08-09": 1440,
       "2025-08-08": 1440,
       "2025-08-07": 1440,
@@ -758,8 +759,7 @@
       "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
-      "2024-08-12": 1440,
-      "2024-08-11": 1440
+      "2024-08-12": 1440
     }
   },
   {
@@ -773,7 +773,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 681,
+    "time": 682,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -786,7 +786,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "calendrier-facultaire-prod",
     "status": "down",
-    "uptime": "44.51%",
+    "uptime": "44.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -797,7 +797,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-10": 67,
+      "2025-08-11": 65,
+      "2025-08-10": 1440,
       "2025-08-09": 1440,
       "2025-08-08": 1440,
       "2025-08-07": 1440,
@@ -1160,8 +1161,7 @@
       "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
-      "2024-08-12": 1440,
-      "2024-08-11": 1440
+      "2024-08-12": 1440
     }
   },
   {
@@ -1176,8 +1176,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 156,
-    "timeWeek": 133,
+    "timeDay": 111,
+    "timeWeek": 128,
     "timeMonth": 130,
     "timeYear": 135,
     "dailyMinutesDown": {}
@@ -1188,7 +1188,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "horarius-prod",
     "status": "down",
-    "uptime": "44.51%",
+    "uptime": "44.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1199,7 +1199,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-10": 68,
+      "2025-08-11": 65,
+      "2025-08-10": 1440,
       "2025-08-09": 1440,
       "2025-08-08": 1440,
       "2025-08-07": 1440,
@@ -1562,8 +1563,7 @@
       "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
-      "2024-08-12": 1440,
-      "2024-08-11": 1440
+      "2024-08-12": 1440
     }
   },
   {
@@ -1578,10 +1578,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 319,
-    "timeDay": 338,
-    "timeWeek": 292,
-    "timeMonth": 292,
-    "timeYear": 320,
+    "timeDay": 246,
+    "timeWeek": 281,
+    "timeMonth": 291,
+    "timeYear": 319,
     "dailyMinutesDown": {}
   },
   {
@@ -1590,7 +1590,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "reservation-prod",
     "status": "down",
-    "uptime": "44.51%",
+    "uptime": "44.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1601,7 +1601,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-10": 68,
+      "2025-08-11": 66,
+      "2025-08-10": 1440,
       "2025-08-09": 1440,
       "2025-08-08": 1440,
       "2025-08-07": 1440,
@@ -1964,8 +1965,7 @@
       "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
-      "2024-08-12": 1440,
-      "2024-08-11": 1440
+      "2024-08-12": 1440
     }
   },
   {
@@ -1980,8 +1980,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 45,
-    "timeDay": 52,
-    "timeWeek": 45,
+    "timeDay": 37,
+    "timeWeek": 43,
     "timeMonth": 44,
     "timeYear": 46,
     "dailyMinutesDown": {}
