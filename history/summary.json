@@ -11,8 +11,8 @@
     "uptimeMonth": "87.23%",
     "uptimeYear": "98.56%",
     "time": 431,
-    "timeDay": 478,
-    "timeWeek": 488,
+    "timeDay": 474,
+    "timeWeek": 489,
     "timeMonth": 466,
     "timeYear": 432,
     "dailyMinutesDown": {
@@ -105,8 +105,8 @@
     "uptimeMonth": "87.49%",
     "uptimeYear": "98.43%",
     "time": 291,
-    "timeDay": 336,
-    "timeWeek": 297,
+    "timeDay": 309,
+    "timeWeek": 296,
     "timeMonth": 293,
     "timeYear": 292,
     "dailyMinutesDown": {
@@ -199,9 +199,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 229,
-    "timeDay": 270,
-    "timeWeek": 259,
-    "timeMonth": 267,
+    "timeDay": 288,
+    "timeWeek": 258,
+    "timeMonth": 268,
     "timeYear": 228,
     "dailyMinutesDown": {}
   },
@@ -217,7 +217,7 @@
     "uptimeMonth": "87.50%",
     "uptimeYear": "98.45%",
     "time": 164,
-    "timeDay": 165,
+    "timeDay": 169,
     "timeWeek": 151,
     "timeMonth": 159,
     "timeYear": 164,
@@ -311,7 +311,7 @@
     "uptimeMonth": "87.50%",
     "uptimeYear": "98.48%",
     "time": 167,
-    "timeDay": 162,
+    "timeDay": 164,
     "timeWeek": 153,
     "timeMonth": 162,
     "timeYear": 167,
@@ -409,7 +409,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-02": 1124,
+      "2025-12-03": 59,
+      "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
@@ -772,8 +773,7 @@
       "2024-12-07": 1440,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
-      "2024-12-04": 1440,
-      "2024-12-03": 1440
+      "2024-12-04": 1440
     }
   },
   {
@@ -800,7 +800,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "calendrier-facultaire-prod",
     "status": "down",
-    "uptime": "40.96%",
+    "uptime": "40.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -811,7 +811,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-02": 1125,
+      "2025-12-03": 60,
+      "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
@@ -1174,8 +1175,7 @@
       "2024-12-07": 1440,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
-      "2024-12-04": 1440,
-      "2024-12-03": 1440
+      "2024-12-04": 1440
     }
   },
   {
@@ -1190,8 +1190,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 136,
-    "timeDay": 135,
-    "timeWeek": 128,
+    "timeDay": 140,
+    "timeWeek": 127,
     "timeMonth": 136,
     "timeYear": 136,
     "dailyMinutesDown": {}
@@ -1202,7 +1202,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "horarius-prod",
     "status": "down",
-    "uptime": "40.96%",
+    "uptime": "40.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1213,7 +1213,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-02": 1125,
+      "2025-12-03": 61,
+      "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
@@ -1576,8 +1577,7 @@
       "2024-12-07": 1440,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
-      "2024-12-04": 1440,
-      "2024-12-03": 1440
+      "2024-12-04": 1440
     }
   },
   {
@@ -1592,9 +1592,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
-    "timeDay": 290,
-    "timeWeek": 277,
-    "timeMonth": 295,
+    "timeDay": 303,
+    "timeWeek": 276,
+    "timeMonth": 294,
     "timeYear": 299,
     "dailyMinutesDown": {}
   },
@@ -1604,7 +1604,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "reservation-prod",
     "status": "down",
-    "uptime": "40.96%",
+    "uptime": "40.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1615,7 +1615,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-02": 1126,
+      "2025-12-03": 61,
+      "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
@@ -1978,8 +1979,7 @@
       "2024-12-07": 1440,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
-      "2024-12-04": 1440,
-      "2024-12-03": 1440
+      "2024-12-04": 1440
     }
   },
   {
@@ -1994,7 +1994,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 46,
-    "timeDay": 47,
+    "timeDay": 48,
     "timeWeek": 43,
     "timeMonth": 46,
     "timeYear": 46,
