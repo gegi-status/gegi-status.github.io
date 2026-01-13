@@ -1,7 +1,7 @@
 url: https://www.usherbrooke.ca/genie-electrique-informatique/espace-wiki
-status: up
-code: 200
-responseTime: 389
-lastUpdated: 2026-01-13T02:22:04.141Z
+status: down
+code: 429
+responseTime: 66
+lastUpdated: 2026-01-13T02:49:50.408Z
 startTime: 2021-12-27T03:07:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
