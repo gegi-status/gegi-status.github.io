@@ -416,7 +416,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-27": 1393,
+      "2026-01-28": 64,
+      "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
@@ -779,8 +780,7 @@
       "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
-      "2025-01-29": 1440,
-      "2025-01-28": 1440
+      "2025-01-29": 1440
     }
   },
   {
@@ -807,11 +807,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "calendrier-facultaire-prod",
     "status": "up",
-    "uptime": "42.13%",
+    "uptime": "42.14%",
     "uptimeDay": "98.84%",
     "uptimeWeek": "97.27%",
     "uptimeMonth": "94.46%",
-    "uptimeYear": "11.11%",
+    "uptimeYear": "11.13%",
     "time": 228,
     "timeDay": 230,
     "timeWeek": 225,
@@ -1163,8 +1163,7 @@
       "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
-      "2025-01-29": 1440,
-      "2025-01-28": 1440
+      "2025-01-29": 1440
     }
   },
   {
@@ -1191,11 +1190,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "horarius-prod",
     "status": "up",
-    "uptime": "42.13%",
+    "uptime": "42.14%",
     "uptimeDay": "98.84%",
     "uptimeWeek": "97.31%",
     "uptimeMonth": "94.52%",
-    "uptimeYear": "11.11%",
+    "uptimeYear": "11.14%",
     "time": 328,
     "timeDay": 349,
     "timeWeek": 326,
@@ -1547,8 +1546,7 @@
       "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
-      "2025-01-29": 1440,
-      "2025-01-28": 1440
+      "2025-01-29": 1440
     }
   },
   {
@@ -1575,11 +1573,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "reservation-prod",
     "status": "up",
-    "uptime": "42.13%",
+    "uptime": "42.14%",
     "uptimeDay": "98.84%",
     "uptimeWeek": "97.35%",
     "uptimeMonth": "94.54%",
-    "uptimeYear": "11.12%",
+    "uptimeYear": "11.14%",
     "time": 48,
     "timeDay": 72,
     "timeWeek": 51,
@@ -1931,8 +1929,7 @@
       "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
-      "2025-01-29": 1440,
-      "2025-01-28": 1440
+      "2025-01-29": 1440
     }
   },
   {
