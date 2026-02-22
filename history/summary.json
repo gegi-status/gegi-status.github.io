@@ -11,9 +11,9 @@
     "uptimeMonth": "98.55%",
     "uptimeYear": "96.32%",
     "time": 444,
-    "timeDay": 512,
-    "timeWeek": 538,
-    "timeMonth": 473,
+    "timeDay": 536,
+    "timeWeek": 543,
+    "timeMonth": 474,
     "timeYear": 445,
     "dailyMinutesDown": {
       "2026-02-21": 87,
@@ -109,8 +109,8 @@
     "uptimeMonth": "98.68%",
     "uptimeYear": "96.19%",
     "time": 301,
-    "timeDay": 300,
-    "timeWeek": 309,
+    "timeDay": 310,
+    "timeWeek": 311,
     "timeMonth": 314,
     "timeYear": 302,
     "dailyMinutesDown": {
@@ -209,9 +209,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
-    "timeDay": 276,
-    "timeWeek": 284,
-    "timeMonth": 283,
+    "timeDay": 293,
+    "timeWeek": 287,
+    "timeMonth": 284,
     "timeYear": 235,
     "dailyMinutesDown": {}
   },
@@ -227,8 +227,8 @@
     "uptimeMonth": "98.73%",
     "uptimeYear": "96.15%",
     "time": 168,
-    "timeDay": 155,
-    "timeWeek": 164,
+    "timeDay": 161,
+    "timeWeek": 165,
     "timeMonth": 178,
     "timeYear": 169,
     "dailyMinutesDown": {
@@ -327,8 +327,8 @@
     "uptimeMonth": "98.77%",
     "uptimeYear": "96.13%",
     "time": 169,
-    "timeDay": 211,
-    "timeWeek": 178,
+    "timeDay": 217,
+    "timeWeek": 179,
     "timeMonth": 176,
     "timeYear": 170,
     "dailyMinutesDown": {
@@ -429,7 +429,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-21": 1379,
+      "2026-02-22": 77,
+      "2026-02-21": 1440,
       "2026-02-20": 1440,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
@@ -792,8 +793,7 @@
       "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
-      "2025-02-23": 1440,
-      "2025-02-22": 1440
+      "2025-02-23": 1440
     }
   },
   {
@@ -820,15 +820,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "calendrier-facultaire-prod",
     "status": "up",
-    "uptime": "43.05%",
+    "uptime": "43.06%",
     "uptimeDay": "94.19%",
     "uptimeWeek": "98.31%",
     "uptimeMonth": "97.87%",
-    "uptimeYear": "17.82%",
+    "uptimeYear": "17.84%",
     "time": 234,
-    "timeDay": 216,
-    "timeWeek": 246,
-    "timeMonth": 241,
+    "timeDay": 224,
+    "timeWeek": 248,
+    "timeMonth": 242,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2026-02-21": 84,
@@ -1161,8 +1161,7 @@
       "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
-      "2025-02-23": 1440,
-      "2025-02-22": 1440
+      "2025-02-23": 1440
     }
   },
   {
@@ -1177,9 +1176,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 138,
-    "timeWeek": 152,
-    "timeMonth": 155,
+    "timeDay": 147,
+    "timeWeek": 153,
+    "timeMonth": 156,
     "timeYear": 139,
     "dailyMinutesDown": {}
   },
@@ -1189,14 +1188,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "horarius-prod",
     "status": "up",
-    "uptime": "43.05%",
+    "uptime": "43.06%",
     "uptimeDay": "94.26%",
     "uptimeWeek": "98.32%",
     "uptimeMonth": "97.89%",
-    "uptimeYear": "17.82%",
+    "uptimeYear": "17.85%",
     "time": 332,
-    "timeDay": 321,
-    "timeWeek": 333,
+    "timeDay": 334,
+    "timeWeek": 336,
     "timeMonth": 339,
     "timeYear": 332,
     "dailyMinutesDown": {
@@ -1530,8 +1529,7 @@
       "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
-      "2025-02-23": 1440,
-      "2025-02-22": 1440
+      "2025-02-23": 1440
     }
   },
   {
@@ -1546,9 +1544,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 293,
-    "timeDay": 242,
-    "timeWeek": 271,
-    "timeMonth": 265,
+    "timeDay": 257,
+    "timeWeek": 273,
+    "timeMonth": 266,
     "timeYear": 293,
     "dailyMinutesDown": {}
   },
@@ -1562,10 +1560,10 @@
     "uptimeDay": "94.33%",
     "uptimeWeek": "98.33%",
     "uptimeMonth": "97.90%",
-    "uptimeYear": "17.83%",
+    "uptimeYear": "17.85%",
     "time": 51,
-    "timeDay": 46,
-    "timeWeek": 55,
+    "timeDay": 50,
+    "timeWeek": 56,
     "timeMonth": 56,
     "timeYear": 51,
     "dailyMinutesDown": {
@@ -1899,8 +1897,7 @@
       "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
-      "2025-02-23": 1440,
-      "2025-02-22": 1440
+      "2025-02-23": 1440
     }
   },
   {
@@ -1915,8 +1912,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 47,
-    "timeDay": 46,
-    "timeWeek": 49,
+    "timeDay": 49,
+    "timeWeek": 50,
     "timeMonth": 51,
     "timeYear": 47,
     "dailyMinutesDown": {}
