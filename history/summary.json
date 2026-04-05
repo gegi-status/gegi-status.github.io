@@ -11,9 +11,9 @@
     "uptimeMonth": "96.06%",
     "uptimeYear": "97.04%",
     "time": 449,
-    "timeDay": 452,
-    "timeWeek": 454,
-    "timeMonth": 460,
+    "timeDay": 478,
+    "timeWeek": 458,
+    "timeMonth": 459,
     "timeYear": 450,
     "dailyMinutesDown": {
       "2026-04-04": 140,
@@ -194,8 +194,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 242,
-    "timeWeek": 247,
+    "timeDay": 234,
+    "timeWeek": 246,
     "timeMonth": 259,
     "timeYear": 236,
     "dailyMinutesDown": {}
@@ -212,8 +212,8 @@
     "uptimeMonth": "96.11%",
     "uptimeYear": "96.96%",
     "time": 169,
-    "timeDay": 150,
-    "timeWeek": 164,
+    "timeDay": 146,
+    "timeWeek": 163,
     "timeMonth": 165,
     "timeYear": 169,
     "dailyMinutesDown": {
@@ -305,7 +305,7 @@
     "uptimeMonth": "96.13%",
     "uptimeYear": "96.95%",
     "time": 169,
-    "timeDay": 154,
+    "timeDay": 149,
     "timeWeek": 169,
     "timeMonth": 164,
     "timeYear": 170,
@@ -402,7 +402,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-04": 1217,
+      "2026-04-05": 88,
+      "2026-04-04": 1440,
       "2026-04-03": 1440,
       "2026-04-02": 1440,
       "2026-04-01": 1440,
@@ -765,8 +766,7 @@
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
-      "2025-04-06": 1440,
-      "2025-04-05": 1440
+      "2025-04-06": 1440
     }
   },
   {
@@ -793,14 +793,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "calendrier-facultaire-prod",
     "status": "up",
-    "uptime": "44.49%",
+    "uptime": "44.50%",
     "uptimeDay": "90.97%",
     "uptimeWeek": "95.94%",
     "uptimeMonth": "96.23%",
-    "uptimeYear": "28.90%",
+    "uptimeYear": "28.96%",
     "time": 236,
-    "timeDay": 231,
-    "timeWeek": 238,
+    "timeDay": 228,
+    "timeWeek": 237,
     "timeMonth": 235,
     "timeYear": 236,
     "dailyMinutesDown": {
@@ -1114,8 +1114,7 @@
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
-      "2025-04-06": 1440,
-      "2025-04-05": 1440
+      "2025-04-06": 1440
     }
   },
   {
@@ -1130,8 +1129,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 131,
-    "timeWeek": 141,
+    "timeDay": 125,
+    "timeWeek": 140,
     "timeMonth": 143,
     "timeYear": 139,
     "dailyMinutesDown": {}
@@ -1142,15 +1141,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "horarius-prod",
     "status": "up",
-    "uptime": "44.49%",
+    "uptime": "44.50%",
     "uptimeDay": "91.18%",
     "uptimeWeek": "95.99%",
     "uptimeMonth": "96.21%",
-    "uptimeYear": "28.91%",
+    "uptimeYear": "28.97%",
     "time": 336,
-    "timeDay": 321,
-    "timeWeek": 341,
-    "timeMonth": 340,
+    "timeDay": 315,
+    "timeWeek": 340,
+    "timeMonth": 339,
     "timeYear": 336,
     "dailyMinutesDown": {
       "2026-04-04": 128,
@@ -1463,8 +1462,7 @@
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
-      "2025-04-06": 1440,
-      "2025-04-05": 1440
+      "2025-04-06": 1440
     }
   },
   {
@@ -1479,10 +1477,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
-    "timeDay": 230,
-    "timeWeek": 247,
+    "timeDay": 218,
+    "timeWeek": 246,
     "timeMonth": 252,
-    "timeYear": 288,
+    "timeYear": 287,
     "dailyMinutesDown": {}
   },
   {
@@ -1495,9 +1493,9 @@
     "uptimeDay": "91.38%",
     "uptimeWeek": "96.04%",
     "uptimeMonth": "96.31%",
-    "uptimeYear": "28.92%",
+    "uptimeYear": "28.98%",
     "time": 51,
-    "timeDay": 44,
+    "timeDay": 42,
     "timeWeek": 47,
     "timeMonth": 48,
     "timeYear": 51,
@@ -1812,8 +1810,7 @@
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
-      "2025-04-06": 1440,
-      "2025-04-05": 1440
+      "2025-04-06": 1440
     }
   },
   {
@@ -1828,7 +1825,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 47,
-    "timeDay": 44,
+    "timeDay": 41,
     "timeWeek": 47,
     "timeMonth": 48,
     "timeYear": 47,
