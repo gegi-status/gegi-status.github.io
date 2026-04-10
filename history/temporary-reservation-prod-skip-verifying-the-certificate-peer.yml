@@ -1,7 +1,7 @@
 url: https://www.gegi.usherbrooke.ca/reservation/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-04-10T17:45:06.281Z
+status: up
+code: 403
+responseTime: 30
+lastUpdated: 2026-04-10T18:32:39.759Z
 startTime: 2024-03-24T10:18:13.377Z
 generator: Upptime <https://github.com/upptime/upptime>
