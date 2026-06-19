@@ -1,7 +1,7 @@
 url: https://www.usherbrooke.ca/genie/
-status: up
+status: degraded
 code: 200
-responseTime: 791
-lastUpdated: 2026-06-19T00:18:22.281Z
+responseTime: 817
+lastUpdated: 2026-06-19T05:29:12.330Z
 startTime: 2021-12-27T03:06:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
