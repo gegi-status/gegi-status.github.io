@@ -6,8 +6,8 @@
     "slug": "ude-s-website-prod",
     "status": "down",
     "uptime": "99.12%",
-    "uptimeDay": "92.19%",
-    "uptimeWeek": "92.31%",
+    "uptimeDay": "91.81%",
+    "uptimeWeek": "92.25%",
     "uptimeMonth": "82.65%",
     "uptimeYear": "96.01%",
     "time": 479,
@@ -74,7 +74,7 @@
       "2026-07-07": 292,
       "2026-07-08": 194,
       "2026-07-09": 59,
-      "2026-07-10": 54
+      "2026-07-10": 59
     }
   },
   {
@@ -84,8 +84,8 @@
     "slug": "faculte-genie-website-prod",
     "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "92.83%",
-    "uptimeWeek": "94.71%",
+    "uptimeDay": "92.47%",
+    "uptimeWeek": "94.66%",
     "uptimeMonth": "83.12%",
     "uptimeYear": "95.53%",
     "time": 341,
@@ -152,7 +152,7 @@
       "2026-07-07": 173,
       "2026-07-08": 94,
       "2026-07-09": 54,
-      "2026-07-10": 49
+      "2026-07-10": 54
     }
   },
   {
@@ -180,8 +180,8 @@
     "slug": "departement-gegi-website-prod",
     "status": "down",
     "uptime": "98.92%",
-    "uptimeDay": "93.44%",
-    "uptimeWeek": "95.93%",
+    "uptimeDay": "93.11%",
+    "uptimeWeek": "95.88%",
     "uptimeMonth": "85.02%",
     "uptimeYear": "95.08%",
     "time": 210,
@@ -247,7 +247,7 @@
       "2026-07-04": 49,
       "2026-07-07": 168,
       "2026-07-09": 49,
-      "2026-07-10": 45
+      "2026-07-10": 50
     }
   },
   {
@@ -257,8 +257,8 @@
     "slug": "departement-gegi-intranet",
     "status": "down",
     "uptime": "98.93%",
-    "uptimeDay": "94.09%",
-    "uptimeWeek": "96.21%",
+    "uptimeDay": "93.76%",
+    "uptimeWeek": "96.17%",
     "uptimeMonth": "85.48%",
     "uptimeYear": "95.15%",
     "time": 210,
@@ -324,7 +324,7 @@
       "2026-07-04": 44,
       "2026-07-07": 163,
       "2026-07-09": 44,
-      "2026-07-10": 41
+      "2026-07-10": 45
     }
   },
   {
@@ -344,7 +344,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-10": 126,
+      "2026-07-10": 130,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
@@ -736,8 +736,8 @@
     "slug": "calendrier-facultaire-prod",
     "status": "down",
     "uptime": "98.96%",
-    "uptimeDay": "96.00%",
-    "uptimeWeek": "97.05%",
+    "uptimeDay": "95.70%",
+    "uptimeWeek": "97.00%",
     "uptimeMonth": "86.80%",
     "uptimeYear": "95.27%",
     "time": 228,
@@ -804,7 +804,7 @@
       "2026-07-04": 30,
       "2026-07-07": 149,
       "2026-07-09": 30,
-      "2026-07-10": 27
+      "2026-07-10": 32
     }
   },
   {
@@ -832,8 +832,8 @@
     "slug": "horarius-prod",
     "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "97.29%",
-    "uptimeWeek": "96.99%",
+    "uptimeDay": "97.02%",
+    "uptimeWeek": "96.95%",
     "uptimeMonth": "86.94%",
     "uptimeYear": "95.92%",
     "time": 378,
@@ -901,7 +901,7 @@
       "2026-07-07": 140,
       "2026-07-08": 63,
       "2026-07-09": 21,
-      "2026-07-10": 18
+      "2026-07-10": 22
     }
   },
   {
@@ -929,8 +929,8 @@
     "slug": "reservation-prod",
     "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "98.62%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "98.58%",
     "uptimeMonth": "88.91%",
     "uptimeYear": "95.36%",
     "time": 75,
@@ -1002,7 +1002,7 @@
       "2026-07-01": 307,
       "2026-07-02": 118,
       "2026-07-07": 130,
-      "2026-07-10": 9
+      "2026-07-10": 13
     }
   },
   {
