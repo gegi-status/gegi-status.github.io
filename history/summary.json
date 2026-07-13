@@ -11,7 +11,7 @@
     "uptimeMonth": "84.75%",
     "uptimeYear": "95.91%",
     "time": 482,
-    "timeDay": 612,
+    "timeDay": 563,
     "timeWeek": 681,
     "timeMonth": 603,
     "timeYear": 484,
@@ -82,17 +82,17 @@
     "url": "https://www.usherbrooke.ca/genie/",
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "faculte-genie-website-prod",
-    "status": "degraded",
-    "uptime": "99.00%",
-    "uptimeDay": "90.79%",
-    "uptimeWeek": "86.64%",
-    "uptimeMonth": "85.25%",
-    "uptimeYear": "95.44%",
+    "status": "up",
+    "uptime": "98.99%",
+    "uptimeDay": "84.59%",
+    "uptimeWeek": "85.76%",
+    "uptimeMonth": "85.05%",
+    "uptimeYear": "95.42%",
     "time": 347,
-    "timeDay": 634,
-    "timeWeek": 831,
+    "timeDay": 638,
+    "timeWeek": 832,
     "timeMonth": 673,
-    "timeYear": 349,
+    "timeYear": 350,
     "dailyMinutesDown": {
       "2026-04-21": 137,
       "2026-04-22": 93,
@@ -151,7 +151,8 @@
       "2026-07-09": 54,
       "2026-07-10": 533,
       "2026-07-11": 360,
-      "2026-07-12": 132
+      "2026-07-12": 150,
+      "2026-07-13": 71
     }
   },
   {
@@ -167,8 +168,8 @@
     "uptimeYear": "100.00%",
     "time": 232,
     "timeDay": 158,
-    "timeWeek": 148,
-    "timeMonth": 162,
+    "timeWeek": 147,
+    "timeMonth": 163,
     "timeYear": 230,
     "dailyMinutesDown": {}
   },
@@ -185,8 +186,8 @@
     "uptimeYear": "95.00%",
     "time": 214,
     "timeDay": 397,
-    "timeWeek": 548,
-    "timeMonth": 470,
+    "timeWeek": 550,
+    "timeMonth": 471,
     "timeYear": 216,
     "dailyMinutesDown": {
       "2026-04-19": 203,
@@ -262,8 +263,8 @@
     "uptimeYear": "95.03%",
     "time": 215,
     "timeDay": 523,
-    "timeWeek": 582,
-    "timeMonth": 474,
+    "timeWeek": 584,
+    "timeMonth": 475,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2026-04-19": 201,
@@ -343,7 +344,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-12": 1424,
+      "2026-07-13": 74,
+      "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
@@ -706,8 +708,7 @@
       "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
-      "2025-07-14": 1440,
-      "2025-07-13": 1440
+      "2025-07-14": 1440
     }
   },
   {
@@ -837,7 +838,7 @@
     "uptimeYear": "95.87%",
     "time": 380,
     "timeDay": 495,
-    "timeWeek": 523,
+    "timeWeek": 522,
     "timeMonth": 528,
     "timeYear": 380,
     "dailyMinutesDown": {
@@ -916,7 +917,7 @@
     "uptimeYear": "100.00%",
     "time": 304,
     "timeDay": 449,
-    "timeWeek": 477,
+    "timeWeek": 474,
     "timeMonth": 486,
     "timeYear": 304,
     "dailyMinutesDown": {}
@@ -1018,7 +1019,7 @@
     "time": 61,
     "timeDay": 141,
     "timeWeek": 152,
-    "timeMonth": 160,
+    "timeMonth": 161,
     "timeYear": 61,
     "dailyMinutesDown": {}
   }
