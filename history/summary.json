@@ -82,16 +82,16 @@
     "url": "https://www.usherbrooke.ca/genie/",
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "faculte-genie-website-prod",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "84.38%",
-    "uptimeWeek": "83.38%",
-    "uptimeMonth": "86.81%",
-    "uptimeYear": "95.45%",
+    "uptimeDay": "83.85%",
+    "uptimeWeek": "82.74%",
+    "uptimeMonth": "86.66%",
+    "uptimeYear": "95.44%",
     "time": 360,
-    "timeDay": 851,
-    "timeWeek": 979,
-    "timeMonth": 771,
+    "timeDay": 748,
+    "timeWeek": 974,
+    "timeMonth": 770,
     "timeYear": 363,
     "dailyMinutesDown": {
       "2026-05-08": 384,
@@ -149,7 +149,7 @@
       "2026-07-16": 223,
       "2026-07-17": 186,
       "2026-07-18": 179,
-      "2026-07-19": 163
+      "2026-07-19": 228
     }
   },
   {
@@ -347,7 +347,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-19": 992,
+      "2026-07-19": 1058,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
@@ -1029,7 +1029,7 @@
     "timeDay": 153,
     "timeWeek": 176,
     "timeMonth": 163,
-    "timeYear": 63,
+    "timeYear": 64,
     "dailyMinutesDown": {}
   }
 ]
