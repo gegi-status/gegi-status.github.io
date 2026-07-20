@@ -1,7 +1,7 @@
 url: https://www.usherbrooke.ca/
-status: up
+status: degraded
 code: 200
-responseTime: 503
-lastUpdated: 2026-07-20T00:12:37.499Z
+responseTime: 2109
+lastUpdated: 2026-07-20T04:29:10.359Z
 startTime: 2021-12-27T03:06:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
