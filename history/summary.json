@@ -6,12 +6,12 @@
     "slug": "ude-s-website-prod",
     "status": "degraded",
     "uptime": "99.10%",
-    "uptimeDay": "88.61%",
-    "uptimeWeek": "87.94%",
-    "uptimeMonth": "87.67%",
+    "uptimeDay": "86.86%",
+    "uptimeWeek": "87.66%",
+    "uptimeMonth": "87.61%",
     "uptimeYear": "95.89%",
     "time": 495,
-    "timeDay": 1385,
+    "timeDay": 967,
     "timeWeek": 942,
     "timeMonth": 734,
     "timeYear": 498,
@@ -75,7 +75,7 @@
       "2026-07-20": 535,
       "2026-07-19": 16,
       "2026-07-21": 162,
-      "2026-07-22": 2
+      "2026-07-22": 30
     }
   },
   {
@@ -85,12 +85,12 @@
     "slug": "faculte-genie-website-prod",
     "status": "degraded",
     "uptime": "99.24%",
-    "uptimeDay": "88.64%",
-    "uptimeWeek": "86.80%",
-    "uptimeMonth": "86.92%",
-    "uptimeYear": "96.53%",
+    "uptimeDay": "86.89%",
+    "uptimeWeek": "86.53%",
+    "uptimeMonth": "86.86%",
+    "uptimeYear": "96.52%",
     "time": 365,
-    "timeDay": 1635,
+    "timeDay": 1400,
     "timeWeek": 1020,
     "timeMonth": 819,
     "timeYear": 369,
@@ -145,7 +145,7 @@
       "2026-07-19": 228,
       "2026-07-20": 261,
       "2026-07-21": 161,
-      "2026-07-22": 2
+      "2026-07-22": 30
     }
   },
   {
@@ -173,12 +173,12 @@
     "slug": "departement-gegi-website-prod",
     "status": "degraded",
     "uptime": "98.89%",
-    "uptimeDay": "88.63%",
-    "uptimeWeek": "94.86%",
-    "uptimeMonth": "91.14%",
-    "uptimeYear": "94.94%",
+    "uptimeDay": "86.91%",
+    "uptimeWeek": "94.58%",
+    "uptimeMonth": "91.07%",
+    "uptimeYear": "94.93%",
     "time": 226,
-    "timeDay": 843,
+    "timeDay": 486,
     "timeWeek": 607,
     "timeMonth": 532,
     "timeYear": 228,
@@ -244,7 +244,7 @@
       "2026-07-18": 87,
       "2026-07-20": 69,
       "2026-07-21": 161,
-      "2026-07-22": 3
+      "2026-07-22": 30
     }
   },
   {
@@ -344,7 +344,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-22": 254,
+      "2026-07-22": 282,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -914,16 +914,16 @@
     "url": "https://www.gegi.usherbrooke.ca/horarius/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "temporary-horarius-prod-skip-verifying-the-certificate-peer",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 308,
-    "timeDay": 583,
-    "timeWeek": 520,
-    "timeMonth": 496,
+    "time": 309,
+    "timeDay": 600,
+    "timeWeek": 524,
+    "timeMonth": 497,
     "timeYear": 309,
     "dailyMinutesDown": {}
   },
