@@ -4,16 +4,16 @@
     "url": "https://www.usherbrooke.ca/",
     "icon": "https://www.usherbrooke.ca/favicon.ico",
     "slug": "ude-s-website-prod",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "85.99%",
-    "uptimeMonth": "88.12%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "85.95%",
+    "uptimeMonth": "88.05%",
     "uptimeYear": "95.96%",
     "time": 497,
-    "timeDay": 1170,
-    "timeWeek": 831,
-    "timeMonth": 751,
+    "timeDay": 1107,
+    "timeWeek": 829,
+    "timeMonth": 750,
     "timeYear": 500,
     "dailyMinutesDown": {
       "2026-05-12": 16,
@@ -73,7 +73,7 @@
       "2026-07-19": 16,
       "2026-07-21": 162,
       "2026-07-22": 251,
-      "2026-07-24": 2
+      "2026-07-24": 34
     }
   },
   {
@@ -81,16 +81,16 @@
     "url": "https://www.usherbrooke.ca/genie/",
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "faculte-genie-website-prod",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "97.14%",
-    "uptimeWeek": "85.33%",
-    "uptimeMonth": "87.02%",
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "85.35%",
+    "uptimeMonth": "86.95%",
     "uptimeYear": "97.43%",
     "time": 369,
-    "timeDay": 882,
-    "timeWeek": 918,
-    "timeMonth": 832,
+    "timeDay": 852,
+    "timeWeek": 913,
+    "timeMonth": 831,
     "timeYear": 373,
     "dailyMinutesDown": {
       "2026-06-04": 357,
@@ -139,7 +139,7 @@
       "2026-07-21": 161,
       "2026-07-22": 430,
       "2026-07-23": 40,
-      "2026-07-24": 2
+      "2026-07-24": 34
     }
   },
   {
@@ -165,15 +165,15 @@
     "url": "https://www.usherbrooke.ca/genie-electrique-informatique/",
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "departement-gegi-website-prod",
-    "status": "degraded",
-    "uptime": "98.90%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "94.17%",
-    "uptimeMonth": "91.34%",
-    "uptimeYear": "94.95%",
+    "status": "up",
+    "uptime": "98.89%",
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "94.14%",
+    "uptimeMonth": "91.27%",
+    "uptimeYear": "94.94%",
     "time": 229,
-    "timeDay": 1039,
-    "timeWeek": 619,
+    "timeDay": 1006,
+    "timeWeek": 620,
     "timeMonth": 552,
     "timeYear": 231,
     "dailyMinutesDown": {
@@ -238,7 +238,7 @@
       "2026-07-20": 69,
       "2026-07-21": 161,
       "2026-07-22": 241,
-      "2026-07-24": 3
+      "2026-07-24": 34
     }
   },
   {
@@ -248,10 +248,10 @@
     "slug": "departement-gegi-intranet",
     "status": "degraded",
     "uptime": "98.91%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "98.09%",
-    "uptimeMonth": "92.39%",
-    "uptimeYear": "95.02%",
+    "uptimeDay": "97.54%",
+    "uptimeWeek": "97.76%",
+    "uptimeMonth": "92.31%",
+    "uptimeYear": "95.01%",
     "time": 227,
     "timeDay": 1045,
     "timeWeek": 557,
@@ -319,7 +319,7 @@
       "2026-07-18": 82,
       "2026-07-20": 64,
       "2026-07-22": 44,
-      "2026-07-24": 3
+      "2026-07-24": 35
     }
   },
   {
@@ -339,7 +339,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-24": 244,
+      "2026-07-24": 276,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -828,15 +828,15 @@
     "url": "https://www.gegi.usherbrooke.ca/horarius/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "horarius-prod",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "94.48%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "98.49%",
+    "uptimeMonth": "94.41%",
     "uptimeYear": "95.93%",
     "time": 388,
-    "timeDay": 620,
-    "timeWeek": 561,
+    "timeDay": 603,
+    "timeWeek": 559,
     "timeMonth": 534,
     "timeYear": 388,
     "dailyMinutesDown": {
@@ -901,7 +901,7 @@
       "2026-07-18": 58,
       "2026-07-20": 40,
       "2026-07-22": 20,
-      "2026-07-24": 4
+      "2026-07-24": 33
     }
   },
   {
