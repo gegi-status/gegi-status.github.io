@@ -4,15 +4,15 @@
     "url": "https://www.usherbrooke.ca/",
     "icon": "https://www.usherbrooke.ca/favicon.ico",
     "slug": "ude-s-website-prod",
-    "status": "degraded",
-    "uptime": "99.12%",
-    "uptimeDay": "97.23%",
-    "uptimeWeek": "87.67%",
-    "uptimeMonth": "87.96%",
-    "uptimeYear": "95.95%",
+    "status": "up",
+    "uptime": "99.11%",
+    "uptimeDay": "87.10%",
+    "uptimeWeek": "87.30%",
+    "uptimeMonth": "87.63%",
+    "uptimeYear": "95.93%",
     "time": 498,
-    "timeDay": 785,
-    "timeWeek": 844,
+    "timeDay": 753,
+    "timeWeek": 846,
     "timeMonth": 757,
     "timeYear": 501,
     "dailyMinutesDown": {
@@ -73,7 +73,7 @@
       "2026-07-21": 162,
       "2026-07-22": 251,
       "2026-07-24": 34,
-      "2026-07-25": 40
+      "2026-07-25": 186
     }
   },
   {
@@ -81,16 +81,16 @@
     "url": "https://www.usherbrooke.ca/genie/",
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "faculte-genie-website-prod",
-    "status": "degraded",
-    "uptime": "99.44%",
-    "uptimeDay": "97.22%",
-    "uptimeWeek": "86.64%",
-    "uptimeMonth": "86.86%",
-    "uptimeYear": "97.44%",
+    "status": "up",
+    "uptime": "99.43%",
+    "uptimeDay": "87.13%",
+    "uptimeWeek": "85.20%",
+    "uptimeMonth": "86.53%",
+    "uptimeYear": "97.41%",
     "time": 371,
-    "timeDay": 1305,
-    "timeWeek": 980,
-    "timeMonth": 851,
+    "timeDay": 1220,
+    "timeWeek": 977,
+    "timeMonth": 850,
     "timeYear": 375,
     "dailyMinutesDown": {
       "2026-06-04": 269,
@@ -140,7 +140,7 @@
       "2026-07-22": 430,
       "2026-07-23": 40,
       "2026-07-24": 34,
-      "2026-07-25": 40
+      "2026-07-25": 185
     }
   },
   {
@@ -156,7 +156,7 @@
     "uptimeYear": "100.00%",
     "time": 228,
     "timeDay": 157,
-    "timeWeek": 163,
+    "timeWeek": 162,
     "timeMonth": 161,
     "timeYear": 226,
     "dailyMinutesDown": {}
@@ -166,16 +166,16 @@
     "url": "https://www.usherbrooke.ca/genie-electrique-informatique/",
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "departement-gegi-website-prod",
-    "status": "degraded",
-    "uptime": "98.90%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "94.11%",
-    "uptimeMonth": "91.27%",
-    "uptimeYear": "94.95%",
+    "status": "up",
+    "uptime": "98.89%",
+    "uptimeDay": "89.78%",
+    "uptimeWeek": "92.68%",
+    "uptimeMonth": "90.94%",
+    "uptimeYear": "94.92%",
     "time": 230,
-    "timeDay": 553,
-    "timeWeek": 626,
-    "timeMonth": 556,
+    "timeDay": 525,
+    "timeWeek": 622,
+    "timeMonth": 555,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2026-04-26": 92,
@@ -239,7 +239,7 @@
       "2026-07-21": 161,
       "2026-07-22": 241,
       "2026-07-24": 34,
-      "2026-07-25": 2
+      "2026-07-25": 147
     }
   },
   {
@@ -247,16 +247,16 @@
     "url": "https://www.usherbrooke.ca/genie-electrique-informatique/espace-wiki",
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "departement-gegi-intranet",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "86.13%",
-    "uptimeWeek": "95.77%",
-    "uptimeMonth": "91.86%",
-    "uptimeYear": "94.98%",
+    "uptimeDay": "86.27%",
+    "uptimeWeek": "94.34%",
+    "uptimeMonth": "91.53%",
+    "uptimeYear": "94.95%",
     "time": 228,
-    "timeDay": 696,
-    "timeWeek": 589,
-    "timeMonth": 531,
+    "timeDay": 657,
+    "timeWeek": 585,
+    "timeMonth": 529,
     "timeYear": 230,
     "dailyMinutesDown": {
       "2026-04-24": 227,
@@ -320,7 +320,7 @@
       "2026-07-20": 64,
       "2026-07-22": 44,
       "2026-07-24": 196,
-      "2026-07-25": 40
+      "2026-07-25": 185
     }
   },
   {
@@ -340,7 +340,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 277,
+      "2026-07-25": 424,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -738,8 +738,8 @@
     "uptimeYear": "95.25%",
     "time": 227,
     "timeDay": 199,
-    "timeWeek": 220,
-    "timeMonth": 208,
+    "timeWeek": 219,
+    "timeMonth": 207,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2026-04-20": 158,
@@ -819,7 +819,7 @@
     "uptimeYear": "100.00%",
     "time": 144,
     "timeDay": 158,
-    "timeWeek": 178,
+    "timeWeek": 177,
     "timeMonth": 168,
     "timeYear": 144,
     "dailyMinutesDown": {}
@@ -837,7 +837,7 @@
     "uptimeYear": "95.93%",
     "time": 389,
     "timeDay": 520,
-    "timeWeek": 550,
+    "timeWeek": 547,
     "timeMonth": 535,
     "timeYear": 389,
     "dailyMinutesDown": {
@@ -918,8 +918,8 @@
     "uptimeYear": "100.00%",
     "time": 310,
     "timeDay": 478,
-    "timeWeek": 525,
-    "timeMonth": 502,
+    "timeWeek": 522,
+    "timeMonth": 503,
     "timeYear": 311,
     "dailyMinutesDown": {}
   },
@@ -936,7 +936,7 @@
     "uptimeYear": "95.36%",
     "time": 82,
     "timeDay": 167,
-    "timeWeek": 173,
+    "timeWeek": 172,
     "timeMonth": 167,
     "timeYear": 82,
     "dailyMinutesDown": {
@@ -1021,8 +1021,8 @@
     "uptimeYear": "100.00%",
     "time": 65,
     "timeDay": 164,
-    "timeWeek": 182,
-    "timeMonth": 169,
+    "timeWeek": 181,
+    "timeMonth": 168,
     "timeYear": 65,
     "dailyMinutesDown": {}
   }
