@@ -6,12 +6,12 @@
     "slug": "ude-s-website-prod",
     "status": "degraded",
     "uptime": "99.12%",
-    "uptimeDay": "98.62%",
+    "uptimeDay": "98.42%",
     "uptimeWeek": "90.80%",
-    "uptimeMonth": "88.78%",
-    "uptimeYear": "95.95%",
+    "uptimeMonth": "88.77%",
+    "uptimeYear": "95.94%",
     "time": 499,
-    "timeDay": 748,
+    "timeDay": 778,
     "timeWeek": 848,
     "timeMonth": 763,
     "timeYear": 503,
@@ -73,7 +73,7 @@
       "2026-07-24": 34,
       "2026-07-25": 186,
       "2026-07-26": 29,
-      "2026-07-27": 1
+      "2026-07-27": 23
     }
   },
   {
@@ -81,20 +81,19 @@
     "url": "https://www.usherbrooke.ca/genie/",
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "faculte-genie-website-prod",
-    "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "94.19%",
-    "uptimeWeek": "88.06%",
-    "uptimeMonth": "87.50%",
-    "uptimeYear": "97.50%",
+    "status": "degraded",
+    "uptime": "99.46%",
+    "uptimeDay": "95.36%",
+    "uptimeWeek": "88.26%",
+    "uptimeMonth": "87.53%",
+    "uptimeYear": "97.52%",
     "time": 373,
-    "timeDay": 644,
-    "timeWeek": 933,
-    "timeMonth": 851,
-    "timeYear": 377,
+    "timeDay": 815,
+    "timeWeek": 956,
+    "timeMonth": 857,
+    "timeYear": 378,
     "dailyMinutesDown": {
-      "2026-06-06": 579,
-      "2026-06-05": 103,
+      "2026-06-06": 544,
       "2026-06-07": 363,
       "2026-06-08": 309,
       "2026-06-09": 436,
@@ -140,7 +139,8 @@
       "2026-07-23": 40,
       "2026-07-24": 34,
       "2026-07-25": 185,
-      "2026-07-26": 94
+      "2026-07-26": 94,
+      "2026-07-27": 1
     }
   },
   {
@@ -166,15 +166,15 @@
     "url": "https://www.usherbrooke.ca/genie-electrique-informatique/",
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "departement-gegi-website-prod",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.89%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "93.24%",
-    "uptimeMonth": "92.02%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "93.04%",
+    "uptimeMonth": "92.00%",
     "uptimeYear": "94.93%",
     "time": 233,
-    "timeDay": 804,
-    "timeWeek": 680,
+    "timeDay": 825,
+    "timeWeek": 678,
     "timeMonth": 572,
     "timeYear": 235,
     "dailyMinutesDown": {
@@ -240,7 +240,7 @@
       "2026-07-24": 34,
       "2026-07-25": 147,
       "2026-07-26": 29,
-      "2026-07-27": 2
+      "2026-07-27": 21
     }
   },
   {
@@ -248,19 +248,19 @@
     "url": "https://www.usherbrooke.ca/genie-electrique-informatique/espace-wiki",
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "departement-gegi-intranet",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.90%",
-    "uptimeDay": "87.70%",
-    "uptimeWeek": "93.28%",
+    "uptimeDay": "89.04%",
+    "uptimeWeek": "93.26%",
     "uptimeMonth": "92.22%",
-    "uptimeYear": "94.96%",
+    "uptimeYear": "94.97%",
     "time": 230,
-    "timeDay": 450,
-    "timeWeek": 583,
-    "timeMonth": 532,
+    "timeDay": 572,
+    "timeWeek": 601,
+    "timeMonth": 536,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2026-04-25": 87,
+      "2026-04-25": 33,
       "2026-04-26": 92,
       "2026-04-27": 338,
       "2026-04-29": 1422,
@@ -321,7 +321,8 @@
       "2026-07-22": 44,
       "2026-07-24": 196,
       "2026-07-25": 185,
-      "2026-07-26": 188
+      "2026-07-26": 188,
+      "2026-07-27": 2
     }
   },
   {
@@ -341,7 +342,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-27": 272,
+      "2026-07-27": 293,
       "2026-07-26": 1440,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
