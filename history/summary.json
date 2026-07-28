@@ -4,16 +4,16 @@
     "url": "https://www.usherbrooke.ca/",
     "icon": "https://www.usherbrooke.ca/favicon.ico",
     "slug": "ude-s-website-prod",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "92.74%",
-    "uptimeMonth": "89.15%",
-    "uptimeYear": "95.91%",
+    "uptimeDay": "97.02%",
+    "uptimeWeek": "92.33%",
+    "uptimeMonth": "89.05%",
+    "uptimeYear": "95.90%",
     "time": 500,
-    "timeDay": 656,
-    "timeWeek": 803,
-    "timeMonth": 767,
+    "timeDay": 669,
+    "timeWeek": 802,
+    "timeMonth": 766,
     "timeYear": 503,
     "dailyMinutesDown": {
       "2026-05-23": 84,
@@ -73,7 +73,7 @@
       "2026-07-25": 186,
       "2026-07-26": 29,
       "2026-07-27": 231,
-      "2026-07-28": 1
+      "2026-07-28": 43
     }
   },
   {
@@ -81,16 +81,16 @@
     "url": "https://www.usherbrooke.ca/genie/",
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "faculte-genie-website-prod",
-    "status": "degraded",
-    "uptime": "99.47%",
-    "uptimeDay": "95.10%",
-    "uptimeWeek": "89.46%",
-    "uptimeMonth": "87.71%",
-    "uptimeYear": "97.55%",
+    "status": "up",
+    "uptime": "99.46%",
+    "uptimeDay": "92.24%",
+    "uptimeWeek": "89.05%",
+    "uptimeMonth": "87.62%",
+    "uptimeYear": "97.54%",
     "time": 375,
-    "timeDay": 791,
-    "timeWeek": 952,
-    "timeMonth": 866,
+    "timeDay": 785,
+    "timeWeek": 946,
+    "timeMonth": 864,
     "timeYear": 380,
     "dailyMinutesDown": {
       "2026-06-06": 121,
@@ -141,7 +141,7 @@
       "2026-07-25": 185,
       "2026-07-26": 94,
       "2026-07-27": 254,
-      "2026-07-28": 25
+      "2026-07-28": 67
     }
   },
   {
@@ -343,7 +343,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-28": 1213,
+      "2026-07-28": 1254,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
       "2026-07-25": 1440,
