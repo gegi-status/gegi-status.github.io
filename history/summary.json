@@ -7,12 +7,12 @@
     "status": "degraded",
     "uptime": "99.40%",
     "uptimeDay": "75.35%",
-    "uptimeWeek": "80.87%",
-    "uptimeMonth": "86.95%",
-    "uptimeYear": "97.23%",
+    "uptimeWeek": "80.82%",
+    "uptimeMonth": "86.91%",
+    "uptimeYear": "97.22%",
     "time": 506,
     "timeDay": 643,
-    "timeWeek": 879,
+    "timeWeek": 854,
     "timeMonth": 813,
     "timeYear": 510,
     "dailyMinutesDown": {
@@ -67,7 +67,7 @@
       "2026-07-31": 468,
       "2026-08-01": 243,
       "2026-08-02": 359,
-      "2026-08-03": 1
+      "2026-08-03": 20
     }
   },
   {
@@ -78,13 +78,13 @@
     "status": "degraded",
     "uptime": "99.46%",
     "uptimeDay": "75.73%",
-    "uptimeWeek": "84.30%",
-    "uptimeMonth": "86.35%",
-    "uptimeYear": "97.54%",
+    "uptimeWeek": "84.12%",
+    "uptimeMonth": "86.31%",
+    "uptimeYear": "97.53%",
     "time": 384,
     "timeDay": 780,
-    "timeWeek": 879,
-    "timeMonth": 892,
+    "timeWeek": 882,
+    "timeMonth": 893,
     "timeYear": 388,
     "dailyMinutesDown": {
       "2026-06-10": 702,
@@ -137,7 +137,7 @@
       "2026-07-31": 308,
       "2026-08-01": 238,
       "2026-08-02": 354,
-      "2026-08-03": 2
+      "2026-08-03": 20
     }
   },
   {
@@ -153,8 +153,8 @@
     "uptimeYear": "100.00%",
     "time": 226,
     "timeDay": 147,
-    "timeWeek": 157,
-    "timeMonth": 157,
+    "timeWeek": 158,
+    "timeMonth": 156,
     "timeYear": 225,
     "dailyMinutesDown": {}
   },
@@ -163,22 +163,18 @@
     "url": "https://www.usherbrooke.ca/genie-electrique-informatique/",
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "departement-gegi-website-prod",
-    "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "88.57%",
-    "uptimeWeek": "91.70%",
+    "status": "degraded",
+    "uptime": "99.29%",
+    "uptimeDay": "89.03%",
+    "uptimeWeek": "91.80%",
     "uptimeMonth": "92.26%",
-    "uptimeYear": "95.69%",
-    "time": 241,
-    "timeDay": 458,
-    "timeWeek": 690,
-    "timeMonth": 606,
+    "uptimeYear": "96.72%",
+    "time": 242,
+    "timeDay": 580,
+    "timeWeek": 654,
+    "timeMonth": 610,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2026-05-27": 1431,
-      "2026-05-26": 1440,
-      "2026-05-25": 1440,
-      "2026-05-24": 1142,
       "2026-05-31": 639,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
@@ -232,7 +228,8 @@
       "2026-07-29": 206,
       "2026-07-31": 205,
       "2026-08-01": 233,
-      "2026-08-02": 171
+      "2026-08-02": 171,
+      "2026-08-03": 2
     }
   },
   {
@@ -242,14 +239,14 @@
     "slug": "departement-gegi-intranet",
     "status": "degraded",
     "uptime": "99.04%",
-    "uptimeDay": "77.08%",
-    "uptimeWeek": "90.44%",
-    "uptimeMonth": "92.08%",
+    "uptimeDay": "76.47%",
+    "uptimeWeek": "90.26%",
+    "uptimeMonth": "92.04%",
     "uptimeYear": "95.56%",
     "time": 238,
-    "timeDay": 722,
+    "timeDay": 517,
     "timeWeek": 638,
-    "timeMonth": 572,
+    "timeMonth": 571,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2026-05-07": 277,
@@ -313,7 +310,7 @@
       "2026-07-31": 172,
       "2026-08-01": 44,
       "2026-08-02": 328,
-      "2026-08-03": 2
+      "2026-08-03": 20
     }
   },
   {
@@ -333,7 +330,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-03": 265,
+      "2026-08-03": 283,
       "2026-08-02": 1440,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
@@ -731,7 +728,7 @@
     "uptimeYear": "95.25%",
     "time": 226,
     "timeDay": 205,
-    "timeWeek": 216,
+    "timeWeek": 217,
     "timeMonth": 210,
     "timeYear": 226,
     "dailyMinutesDown": {
@@ -813,7 +810,7 @@
     "uptimeYear": "100.00%",
     "time": 145,
     "timeDay": 210,
-    "timeWeek": 194,
+    "timeWeek": 196,
     "timeMonth": 176,
     "timeYear": 146,
     "dailyMinutesDown": {}
@@ -913,7 +910,7 @@
     "uptimeYear": "100.00%",
     "time": 315,
     "timeDay": 522,
-    "timeWeek": 548,
+    "timeWeek": 551,
     "timeMonth": 515,
     "timeYear": 316,
     "dailyMinutesDown": {}
@@ -931,7 +928,7 @@
     "uptimeYear": "95.36%",
     "time": 85,
     "timeDay": 166,
-    "timeWeek": 170,
+    "timeWeek": 172,
     "timeMonth": 169,
     "timeYear": 85,
     "dailyMinutesDown": {
@@ -1017,7 +1014,7 @@
     "uptimeYear": "100.00%",
     "time": 67,
     "timeDay": 175,
-    "timeWeek": 181,
+    "timeWeek": 183,
     "timeMonth": 173,
     "timeYear": 68,
     "dailyMinutesDown": {}
