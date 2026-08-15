@@ -4,15 +4,15 @@
     "url": "https://www.usherbrooke.ca/",
     "icon": "https://www.usherbrooke.ca/favicon.ico",
     "slug": "ude-s-website-prod",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "83.57%",
-    "uptimeWeek": "82.08%",
-    "uptimeMonth": "83.57%",
+    "uptimeDay": "82.01%",
+    "uptimeWeek": "81.85%",
+    "uptimeMonth": "83.52%",
     "uptimeYear": "97.55%",
     "time": 522,
-    "timeDay": 800,
-    "timeWeek": 847,
+    "timeDay": 781,
+    "timeWeek": 844,
     "timeMonth": 872,
     "timeYear": 523,
     "dailyMinutesDown": {
@@ -68,7 +68,7 @@
       "2026-08-11": 246,
       "2026-08-12": 323,
       "2026-08-13": 291,
-      "2026-08-14": 237
+      "2026-08-14": 259
     }
   },
   {
@@ -85,7 +85,7 @@
     "time": 414,
     "timeDay": 723,
     "timeWeek": 1266,
-    "timeMonth": 1030,
+    "timeMonth": 1031,
     "timeYear": 414,
     "dailyMinutesDown": {
       "2026-06-23": 109,
@@ -320,7 +320,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-14": 1418,
+      "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
@@ -876,7 +876,7 @@
     "time": 324,
     "timeDay": 950,
     "timeWeek": 579,
-    "timeMonth": 548,
+    "timeMonth": 547,
     "timeYear": 325,
     "dailyMinutesDown": {}
   },
