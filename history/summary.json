@@ -6,12 +6,12 @@
     "slug": "ude-s-website-prod",
     "status": "degraded",
     "uptime": "99.54%",
-    "uptimeDay": "94.73%",
+    "uptimeDay": "93.13%",
     "uptimeWeek": "87.48%",
     "uptimeMonth": "83.53%",
-    "uptimeYear": "97.85%",
+    "uptimeYear": "97.84%",
     "time": 532,
-    "timeDay": 1114,
+    "timeDay": 1039,
     "timeWeek": 964,
     "timeMonth": 904,
     "timeYear": 534,
@@ -66,7 +66,7 @@
       "2026-08-17": 263,
       "2026-08-18": 185,
       "2026-08-19": 124,
-      "2026-08-20": 42
+      "2026-08-20": 67
     }
   },
   {
@@ -79,7 +79,7 @@
     "uptimeDay": "88.88%",
     "uptimeWeek": "87.72%",
     "uptimeMonth": "84.82%",
-    "uptimeYear": "98.15%",
+    "uptimeYear": "98.14%",
     "time": 445,
     "timeDay": 1303,
     "timeWeek": 1617,
@@ -130,7 +130,7 @@
       "2026-08-17": 275,
       "2026-08-18": 112,
       "2026-08-19": 170,
-      "2026-08-20": 84
+      "2026-08-20": 109
     }
   },
   {
@@ -158,9 +158,9 @@
     "slug": "departement-gegi-website-prod",
     "status": "degraded",
     "uptime": "99.61%",
-    "uptimeDay": "94.20%",
-    "uptimeWeek": "91.04%",
-    "uptimeMonth": "89.69%",
+    "uptimeDay": "92.46%",
+    "uptimeWeek": "90.79%",
+    "uptimeMonth": "89.63%",
     "uptimeYear": "98.18%",
     "time": 269,
     "timeDay": 1035,
@@ -220,7 +220,7 @@
       "2026-08-17": 235,
       "2026-08-18": 155,
       "2026-08-19": 40,
-      "2026-08-20": 83
+      "2026-08-20": 108
     }
   },
   {
@@ -228,19 +228,19 @@
     "url": "https://www.usherbrooke.ca/genie-electrique-informatique/espace-wiki",
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "departement-gegi-intranet",
-    "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "90.49%",
-    "uptimeWeek": "91.34%",
+    "status": "degraded",
+    "uptime": "99.56%",
+    "uptimeDay": "92.09%",
+    "uptimeWeek": "91.31%",
     "uptimeMonth": "89.97%",
-    "uptimeYear": "97.91%",
+    "uptimeYear": "97.93%",
     "time": 265,
-    "timeDay": 821,
-    "timeWeek": 952,
-    "timeMonth": 753,
+    "timeDay": 967,
+    "timeWeek": 974,
+    "timeMonth": 760,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2026-06-12": 369,
+      "2026-06-12": 265,
       "2026-06-13": 215,
       "2026-06-14": 459,
       "2026-06-15": 629,
@@ -295,7 +295,7 @@
       "2026-08-17": 173,
       "2026-08-18": 198,
       "2026-08-19": 116,
-      "2026-08-20": 81
+      "2026-08-20": 83
     }
   },
   {
@@ -315,7 +315,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-20": 323,
+      "2026-08-20": 348,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
