@@ -8,12 +8,12 @@
     "uptime": "99.52%",
     "uptimeDay": "91.41%",
     "uptimeWeek": "86.68%",
-    "uptimeMonth": "82.85%",
+    "uptimeMonth": "82.89%",
     "uptimeYear": "97.79%",
     "time": 531,
     "timeDay": 878,
     "timeWeek": 940,
-    "timeMonth": 894,
+    "timeMonth": 891,
     "timeYear": 532,
     "dailyMinutesDown": {
       "2026-06-26": 424,
@@ -73,15 +73,15 @@
     "url": "https://www.usherbrooke.ca/genie/",
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "faculte-genie-website-prod",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "89.55%",
-    "uptimeWeek": "88.66%",
-    "uptimeMonth": "84.94%",
-    "uptimeYear": "98.15%",
-    "time": 443,
-    "timeDay": 1845,
-    "timeWeek": 1679,
+    "uptimeDay": "88.25%",
+    "uptimeWeek": "88.48%",
+    "uptimeMonth": "84.89%",
+    "uptimeYear": "98.14%",
+    "time": 442,
+    "timeDay": 1776,
+    "timeWeek": 1670,
     "timeMonth": 1218,
     "timeYear": 444,
     "dailyMinutesDown": {
@@ -130,7 +130,7 @@
       "2026-08-16": 76,
       "2026-08-17": 275,
       "2026-08-18": 112,
-      "2026-08-19": 151
+      "2026-08-19": 170
     }
   },
   {
@@ -165,7 +165,7 @@
     "time": 267,
     "timeDay": 1047,
     "timeWeek": 891,
-    "timeMonth": 743,
+    "timeMonth": 744,
     "timeYear": 270,
     "dailyMinutesDown": {
       "2026-06-14": 155,
@@ -315,7 +315,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-19": 1422,
+      "2026-08-20": 1,
+      "2026-08-19": 1440,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -678,8 +679,7 @@
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
-      "2025-08-21": 1440,
-      "2025-08-20": 1440
+      "2025-08-21": 1440
     }
   },
   {
@@ -802,7 +802,7 @@
     "time": 409,
     "timeDay": 526,
     "timeWeek": 573,
-    "timeMonth": 572,
+    "timeMonth": 571,
     "timeYear": 409,
     "dailyMinutesDown": {
       "2026-06-09": 335,
