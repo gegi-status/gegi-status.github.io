@@ -75,10 +75,10 @@
     "slug": "faculte-genie-website-prod",
     "status": "degraded",
     "uptime": "99.62%",
-    "uptimeDay": "90.17%",
-    "uptimeWeek": "89.22%",
-    "uptimeMonth": "85.14%",
-    "uptimeYear": "98.25%",
+    "uptimeDay": "87.41%",
+    "uptimeWeek": "88.82%",
+    "uptimeMonth": "85.05%",
+    "uptimeYear": "98.24%",
     "time": 445,
     "timeDay": 1065,
     "timeWeek": 1651,
@@ -127,7 +127,8 @@
       "2026-08-18": 112,
       "2026-08-19": 170,
       "2026-08-20": 172,
-      "2026-08-21": 142
+      "2026-08-21": 143,
+      "2026-08-22": 39
     }
   },
   {
@@ -313,7 +314,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-22": 1,
+      "2026-08-22": 40,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
