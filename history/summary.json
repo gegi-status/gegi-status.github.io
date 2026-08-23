@@ -5,11 +5,11 @@
     "icon": "https://www.usherbrooke.ca/favicon.ico",
     "slug": "ude-s-website-prod",
     "status": "degraded",
-    "uptime": "99.55%",
+    "uptime": "99.54%",
     "uptimeDay": "91.54%",
     "uptimeWeek": "89.19%",
-    "uptimeMonth": "84.14%",
-    "uptimeYear": "97.88%",
+    "uptimeMonth": "84.04%",
+    "uptimeYear": "97.87%",
     "time": 538,
     "timeDay": 1136,
     "timeWeek": 1061,
@@ -65,7 +65,7 @@
       "2026-08-20": 131,
       "2026-08-21": 141,
       "2026-08-22": 124,
-      "2026-08-23": 2
+      "2026-08-23": 47
     }
   },
   {
@@ -76,13 +76,13 @@
     "status": "degraded",
     "uptime": "99.63%",
     "uptimeDay": "91.60%",
-    "uptimeWeek": "88.15%",
-    "uptimeMonth": "85.54%",
-    "uptimeYear": "98.27%",
+    "uptimeWeek": "87.70%",
+    "uptimeMonth": "85.50%",
+    "uptimeYear": "98.26%",
     "time": 449,
     "timeDay": 1074,
     "timeWeek": 1634,
-    "timeMonth": 1231,
+    "timeMonth": 1232,
     "timeYear": 456,
     "dailyMinutesDown": {
       "2026-07-11": 75,
@@ -128,7 +128,7 @@
       "2026-08-20": 172,
       "2026-08-21": 143,
       "2026-08-22": 267,
-      "2026-08-23": 2
+      "2026-08-23": 47
     }
   },
   {
@@ -154,16 +154,16 @@
     "url": "https://www.usherbrooke.ca/genie-electrique-informatique/",
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "departement-gegi-website-prod",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "93.89%",
-    "uptimeWeek": "91.37%",
-    "uptimeMonth": "90.16%",
-    "uptimeYear": "98.30%",
+    "uptimeDay": "93.47%",
+    "uptimeWeek": "91.28%",
+    "uptimeMonth": "90.06%",
+    "uptimeYear": "98.29%",
     "time": 275,
-    "timeDay": 677,
-    "timeWeek": 851,
-    "timeMonth": 772,
+    "timeDay": 664,
+    "timeWeek": 848,
+    "timeMonth": 771,
     "timeYear": 279,
     "dailyMinutesDown": {
       "2026-06-20": 79,
@@ -218,7 +218,7 @@
       "2026-08-20": 140,
       "2026-08-21": 118,
       "2026-08-22": 90,
-      "2026-08-23": 2
+      "2026-08-23": 45
     }
   },
   {
@@ -228,13 +228,13 @@
     "slug": "departement-gegi-intranet",
     "status": "degraded",
     "uptime": "99.58%",
-    "uptimeDay": "96.04%",
-    "uptimeWeek": "91.45%",
-    "uptimeMonth": "89.66%",
-    "uptimeYear": "98.04%",
+    "uptimeDay": "92.95%",
+    "uptimeWeek": "91.11%",
+    "uptimeMonth": "89.56%",
+    "uptimeYear": "98.03%",
     "time": 272,
     "timeDay": 876,
-    "timeWeek": 978,
+    "timeWeek": 969,
     "timeMonth": 782,
     "timeYear": 275,
     "dailyMinutesDown": {
@@ -294,7 +294,7 @@
       "2026-08-20": 114,
       "2026-08-21": 117,
       "2026-08-22": 90,
-      "2026-08-23": 2
+      "2026-08-23": 47
     }
   },
   {
@@ -314,7 +314,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-23": 255,
+      "2026-08-23": 299,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
