@@ -5,11 +5,11 @@
     "icon": "https://www.usherbrooke.ca/favicon.ico",
     "slug": "ude-s-website-prod",
     "status": "degraded",
-    "uptime": "99.56%",
+    "uptime": "99.55%",
     "uptimeDay": "90.55%",
     "uptimeWeek": "90.74%",
     "uptimeMonth": "83.65%",
-    "uptimeYear": "97.93%",
+    "uptimeYear": "97.92%",
     "time": 543,
     "timeDay": 1273,
     "timeWeek": 1078,
@@ -66,7 +66,7 @@
       "2026-08-22": 124,
       "2026-08-23": 143,
       "2026-08-24": 88,
-      "2026-08-25": 49
+      "2026-08-25": 93
     }
   },
   {
@@ -77,12 +77,12 @@
     "status": "degraded",
     "uptime": "99.62%",
     "uptimeDay": "93.27%",
-    "uptimeWeek": "88.73%",
+    "uptimeWeek": "88.63%",
     "uptimeMonth": "85.11%",
-    "uptimeYear": "98.25%",
+    "uptimeYear": "98.24%",
     "time": 454,
     "timeDay": 1045,
-    "timeWeek": 1340,
+    "timeWeek": 1345,
     "timeMonth": 1222,
     "timeYear": 460,
     "dailyMinutesDown": {
@@ -130,7 +130,7 @@
       "2026-08-22": 267,
       "2026-08-23": 139,
       "2026-08-24": 138,
-      "2026-08-25": 2
+      "2026-08-25": 46
     }
   },
   {
@@ -160,12 +160,12 @@
     "uptime": "99.64%",
     "uptimeDay": "93.88%",
     "uptimeWeek": "93.32%",
-    "uptimeMonth": "89.82%",
-    "uptimeYear": "98.34%",
+    "uptimeMonth": "89.80%",
+    "uptimeYear": "98.33%",
     "time": 281,
     "timeDay": 720,
     "timeWeek": 860,
-    "timeMonth": 784,
+    "timeMonth": 782,
     "timeYear": 284,
     "dailyMinutesDown": {
       "2026-06-21": 97,
@@ -221,7 +221,7 @@
       "2026-08-22": 90,
       "2026-08-23": 94,
       "2026-08-24": 87,
-      "2026-08-25": 2
+      "2026-08-25": 46
     }
   },
   {
@@ -229,15 +229,15 @@
     "url": "https://www.usherbrooke.ca/genie-electrique-informatique/espace-wiki",
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "departement-gegi-intranet",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "93.93%",
-    "uptimeWeek": "92.25%",
-    "uptimeMonth": "89.73%",
-    "uptimeYear": "98.23%",
+    "uptimeDay": "94.06%",
+    "uptimeWeek": "92.27%",
+    "uptimeMonth": "89.74%",
+    "uptimeYear": "98.22%",
     "time": 278,
-    "timeDay": 1187,
-    "timeWeek": 960,
+    "timeDay": 1156,
+    "timeWeek": 957,
     "timeMonth": 798,
     "timeYear": 282,
     "dailyMinutesDown": {
@@ -296,7 +296,7 @@
       "2026-08-22": 90,
       "2026-08-23": 110,
       "2026-08-24": 86,
-      "2026-08-25": 2
+      "2026-08-25": 44
     }
   },
   {
@@ -316,7 +316,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-25": 267,
+      "2026-08-25": 310,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
