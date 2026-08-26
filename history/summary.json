@@ -8,12 +8,12 @@
     "uptime": "99.56%",
     "uptimeDay": "79.11%",
     "uptimeWeek": "89.58%",
-    "uptimeMonth": "83.35%",
-    "uptimeYear": "97.97%",
+    "uptimeMonth": "83.31%",
+    "uptimeYear": "97.96%",
     "time": 547,
     "timeDay": 1259,
     "timeWeek": 1138,
-    "timeMonth": 968,
+    "timeMonth": 970,
     "timeYear": 550,
     "dailyMinutesDown": {
       "2026-07-07": 114,
@@ -64,7 +64,7 @@
       "2026-08-23": 143,
       "2026-08-24": 88,
       "2026-08-25": 284,
-      "2026-08-26": 51
+      "2026-08-26": 98
     }
   },
   {
@@ -74,14 +74,14 @@
     "slug": "faculte-genie-website-prod",
     "status": "degraded",
     "uptime": "99.63%",
-    "uptimeDay": "85.29%",
+    "uptimeDay": "84.45%",
     "uptimeWeek": "88.08%",
-    "uptimeMonth": "84.99%",
-    "uptimeYear": "98.28%",
+    "uptimeMonth": "84.95%",
+    "uptimeYear": "98.27%",
     "time": 457,
-    "timeDay": 1648,
+    "timeDay": 1330,
     "timeWeek": 1159,
-    "timeMonth": 1241,
+    "timeMonth": 1243,
     "timeYear": 464,
     "dailyMinutesDown": {
       "2026-07-13": 112,
@@ -128,7 +128,7 @@
       "2026-08-23": 139,
       "2026-08-24": 138,
       "2026-08-25": 161,
-      "2026-08-26": 51
+      "2026-08-26": 98
     }
   },
   {
@@ -154,16 +154,16 @@
     "url": "https://www.usherbrooke.ca/genie-electrique-informatique/",
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "departement-gegi-website-prod",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "85.36%",
-    "uptimeWeek": "92.57%",
-    "uptimeMonth": "89.68%",
+    "uptimeDay": "84.66%",
+    "uptimeWeek": "92.23%",
+    "uptimeMonth": "89.64%",
     "uptimeYear": "98.40%",
     "time": 286,
-    "timeDay": 1647,
-    "timeWeek": 988,
-    "timeMonth": 821,
+    "timeDay": 1540,
+    "timeWeek": 987,
+    "timeMonth": 820,
     "timeYear": 289,
     "dailyMinutesDown": {
       "2026-06-26": 404,
@@ -217,7 +217,7 @@
       "2026-08-23": 94,
       "2026-08-24": 87,
       "2026-08-25": 159,
-      "2026-08-26": 51
+      "2026-08-26": 96
     }
   },
   {
@@ -227,13 +227,13 @@
     "slug": "departement-gegi-intranet",
     "status": "degraded",
     "uptime": "99.63%",
-    "uptimeDay": "88.14%",
-    "uptimeWeek": "92.01%",
-    "uptimeMonth": "89.70%",
-    "uptimeYear": "98.28%",
+    "uptimeDay": "87.30%",
+    "uptimeWeek": "91.91%",
+    "uptimeMonth": "89.68%",
+    "uptimeYear": "98.27%",
     "time": 279,
-    "timeDay": 1148,
-    "timeWeek": 977,
+    "timeDay": 638,
+    "timeWeek": 884,
     "timeMonth": 801,
     "timeYear": 283,
     "dailyMinutesDown": {
@@ -291,7 +291,7 @@
       "2026-08-23": 110,
       "2026-08-24": 86,
       "2026-08-25": 120,
-      "2026-08-26": 51
+      "2026-08-26": 98
     }
   },
   {
@@ -311,7 +311,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-26": 252,
+      "2026-08-26": 299,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -781,7 +781,7 @@
     "time": 148,
     "timeDay": 202,
     "timeWeek": 188,
-    "timeMonth": 181,
+    "timeMonth": 180,
     "timeYear": 149,
     "dailyMinutesDown": {}
   },
@@ -790,16 +790,16 @@
     "url": "https://www.gegi.usherbrooke.ca/horarius/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "horarius-prod",
-    "status": "degraded",
-    "uptime": "99.71%",
-    "uptimeDay": "86.80%",
-    "uptimeWeek": "95.72%",
-    "uptimeMonth": "95.97%",
-    "uptimeYear": "98.63%",
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "83.75%",
+    "uptimeWeek": "95.29%",
+    "uptimeMonth": "95.86%",
+    "uptimeYear": "98.62%",
     "time": 417,
-    "timeDay": 701,
-    "timeWeek": 613,
-    "timeMonth": 588,
+    "timeDay": 702,
+    "timeWeek": 614,
+    "timeMonth": 589,
     "timeYear": 417,
     "dailyMinutesDown": {
       "2026-06-12": 217,
@@ -856,7 +856,7 @@
       "2026-08-23": 41,
       "2026-08-24": 49,
       "2026-08-25": 164,
-      "2026-08-26": 26
+      "2026-08-26": 70
     }
   },
   {
@@ -872,7 +872,7 @@
     "uptimeYear": "100.00%",
     "time": 334,
     "timeDay": 564,
-    "timeWeek": 600,
+    "timeWeek": 568,
     "timeMonth": 564,
     "timeYear": 335,
     "dailyMinutesDown": {}
@@ -891,7 +891,7 @@
     "time": 94,
     "timeDay": 166,
     "timeWeek": 176,
-    "timeMonth": 175,
+    "timeMonth": 176,
     "timeYear": 94,
     "dailyMinutesDown": {
       "2026-04-18": 153,
@@ -978,7 +978,7 @@
     "time": 76,
     "timeDay": 200,
     "timeWeek": 185,
-    "timeMonth": 175,
+    "timeMonth": 174,
     "timeYear": 77,
     "dailyMinutesDown": {}
   }
