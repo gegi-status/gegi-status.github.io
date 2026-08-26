@@ -8,7 +8,7 @@
     "uptime": "99.56%",
     "uptimeDay": "79.11%",
     "uptimeWeek": "89.58%",
-    "uptimeMonth": "83.41%",
+    "uptimeMonth": "83.35%",
     "uptimeYear": "97.97%",
     "time": 547,
     "timeDay": 1259,
@@ -64,7 +64,7 @@
       "2026-08-23": 143,
       "2026-08-24": 88,
       "2026-08-25": 284,
-      "2026-08-26": 25
+      "2026-08-26": 51
     }
   },
   {
@@ -74,9 +74,9 @@
     "slug": "faculte-genie-website-prod",
     "status": "degraded",
     "uptime": "99.63%",
-    "uptimeDay": "87.08%",
+    "uptimeDay": "85.29%",
     "uptimeWeek": "88.08%",
-    "uptimeMonth": "85.05%",
+    "uptimeMonth": "84.99%",
     "uptimeYear": "98.28%",
     "time": 457,
     "timeDay": 1648,
@@ -128,7 +128,7 @@
       "2026-08-23": 139,
       "2026-08-24": 138,
       "2026-08-25": 161,
-      "2026-08-26": 25
+      "2026-08-26": 51
     }
   },
   {
@@ -156,10 +156,10 @@
     "slug": "departement-gegi-website-prod",
     "status": "degraded",
     "uptime": "99.66%",
-    "uptimeDay": "87.14%",
+    "uptimeDay": "85.36%",
     "uptimeWeek": "92.57%",
-    "uptimeMonth": "89.74%",
-    "uptimeYear": "98.41%",
+    "uptimeMonth": "89.68%",
+    "uptimeYear": "98.40%",
     "time": 286,
     "timeDay": 1647,
     "timeWeek": 988,
@@ -217,7 +217,7 @@
       "2026-08-23": 94,
       "2026-08-24": 87,
       "2026-08-25": 159,
-      "2026-08-26": 26
+      "2026-08-26": 51
     }
   },
   {
@@ -227,9 +227,9 @@
     "slug": "departement-gegi-intranet",
     "status": "degraded",
     "uptime": "99.63%",
-    "uptimeDay": "89.92%",
-    "uptimeWeek": "92.27%",
-    "uptimeMonth": "89.76%",
+    "uptimeDay": "88.14%",
+    "uptimeWeek": "92.01%",
+    "uptimeMonth": "89.70%",
     "uptimeYear": "98.28%",
     "time": 279,
     "timeDay": 1148,
@@ -291,7 +291,7 @@
       "2026-08-23": 110,
       "2026-08-24": 86,
       "2026-08-25": 120,
-      "2026-08-26": 26
+      "2026-08-26": 51
     }
   },
   {
@@ -311,7 +311,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-26": 227,
+      "2026-08-26": 252,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -790,19 +790,19 @@
     "url": "https://www.gegi.usherbrooke.ca/horarius/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "horarius-prod",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "87.00%",
-    "uptimeWeek": "95.75%",
+    "status": "degraded",
+    "uptime": "99.71%",
+    "uptimeDay": "86.80%",
+    "uptimeWeek": "95.72%",
     "uptimeMonth": "95.97%",
-    "uptimeYear": "98.61%",
-    "time": 416,
-    "timeDay": 681,
-    "timeWeek": 609,
-    "timeMonth": 586,
-    "timeYear": 416,
+    "uptimeYear": "98.63%",
+    "time": 417,
+    "timeDay": 701,
+    "timeWeek": 613,
+    "timeMonth": 588,
+    "timeYear": 417,
     "dailyMinutesDown": {
-      "2026-06-12": 297,
+      "2026-06-12": 217,
       "2026-06-13": 167,
       "2026-06-14": 411,
       "2026-06-15": 605,
@@ -856,7 +856,7 @@
       "2026-08-23": 41,
       "2026-08-24": 49,
       "2026-08-25": 164,
-      "2026-08-26": 23
+      "2026-08-26": 26
     }
   },
   {
