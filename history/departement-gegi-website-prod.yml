@@ -1,7 +1,7 @@
 url: https://www.usherbrooke.ca/genie-electrique-informatique/
-status: up
+status: degraded
 code: 200
-responseTime: 784
-lastUpdated: 2026-08-26T05:22:10.749Z
+responseTime: 911
+lastUpdated: 2026-08-26T05:41:36.623Z
 startTime: 2021-12-27T03:06:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
