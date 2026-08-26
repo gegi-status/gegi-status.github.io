@@ -4,19 +4,18 @@
     "url": "https://www.usherbrooke.ca/",
     "icon": "https://www.usherbrooke.ca/favicon.ico",
     "slug": "ude-s-website-prod",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "79.23%",
-    "uptimeWeek": "89.41%",
-    "uptimeMonth": "83.26%",
-    "uptimeYear": "97.95%",
+    "status": "degraded",
+    "uptime": "99.57%",
+    "uptimeDay": "80.45%",
+    "uptimeWeek": "89.38%",
+    "uptimeMonth": "83.25%",
+    "uptimeYear": "97.97%",
     "time": 547,
-    "timeDay": 897,
-    "timeWeek": 1141,
-    "timeMonth": 969,
+    "timeDay": 960,
+    "timeWeek": 1150,
+    "timeMonth": 972,
     "timeYear": 550,
     "dailyMinutesDown": {
-      "2026-07-07": 114,
       "2026-07-08": 194,
       "2026-07-09": 59,
       "2026-07-10": 424,
@@ -64,7 +63,7 @@
       "2026-08-23": 143,
       "2026-08-24": 88,
       "2026-08-25": 284,
-      "2026-08-26": 122
+      "2026-08-26": 124
     }
   },
   {
@@ -76,7 +75,7 @@
     "uptime": "99.63%",
     "uptimeDay": "84.45%",
     "uptimeWeek": "87.94%",
-    "uptimeMonth": "84.89%",
+    "uptimeMonth": "84.85%",
     "uptimeYear": "98.26%",
     "time": 458,
     "timeDay": 1232,
@@ -128,7 +127,7 @@
       "2026-08-23": 139,
       "2026-08-24": 138,
       "2026-08-25": 161,
-      "2026-08-26": 124
+      "2026-08-26": 143
     }
   },
   {
@@ -154,19 +153,19 @@
     "url": "https://www.usherbrooke.ca/genie-electrique-informatique/",
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "departement-gegi-website-prod",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "86.44%",
-    "uptimeWeek": "92.23%",
+    "status": "degraded",
+    "uptime": "99.67%",
+    "uptimeDay": "87.67%",
+    "uptimeWeek": "92.21%",
     "uptimeMonth": "89.64%",
-    "uptimeYear": "98.40%",
+    "uptimeYear": "98.44%",
     "time": 286,
-    "timeDay": 1092,
+    "timeDay": 1080,
     "timeWeek": 939,
     "timeMonth": 820,
     "timeYear": 289,
     "dailyMinutesDown": {
-      "2026-06-26": 404,
+      "2026-06-26": 150,
       "2026-06-27": 221,
       "2026-06-28": 131,
       "2026-06-30": 83,
@@ -217,7 +216,7 @@
       "2026-08-23": 94,
       "2026-08-24": 87,
       "2026-08-25": 159,
-      "2026-08-26": 96
+      "2026-08-26": 98
     }
   },
   {
@@ -227,10 +226,10 @@
     "slug": "departement-gegi-intranet",
     "status": "degraded",
     "uptime": "99.63%",
-    "uptimeDay": "86.17%",
+    "uptimeDay": "84.80%",
     "uptimeWeek": "91.91%",
     "uptimeMonth": "89.68%",
-    "uptimeYear": "98.27%",
+    "uptimeYear": "98.26%",
     "time": 280,
     "timeDay": 722,
     "timeWeek": 863,
@@ -291,7 +290,7 @@
       "2026-08-23": 110,
       "2026-08-24": 86,
       "2026-08-25": 120,
-      "2026-08-26": 124
+      "2026-08-26": 143
     }
   },
   {
@@ -311,7 +310,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-26": 325,
+      "2026-08-26": 344,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
