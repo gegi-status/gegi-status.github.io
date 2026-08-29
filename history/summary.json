@@ -12,7 +12,7 @@
     "uptimeYear": "97.82%",
     "time": 550,
     "timeDay": 635,
-    "timeWeek": 1151,
+    "timeWeek": 1157,
     "timeMonth": 987,
     "timeYear": 554,
     "dailyMinutesDown": {
@@ -79,7 +79,7 @@
     "uptimeYear": "98.12%",
     "time": 460,
     "timeDay": 637,
-    "timeWeek": 1089,
+    "timeWeek": 1094,
     "timeMonth": 1270,
     "timeYear": 468,
     "dailyMinutesDown": {
@@ -144,7 +144,7 @@
     "uptimeYear": "100.00%",
     "time": 223,
     "timeDay": 177,
-    "timeWeek": 158,
+    "timeWeek": 156,
     "timeMonth": 157,
     "timeYear": 226,
     "dailyMinutesDown": {}
@@ -162,7 +162,7 @@
     "uptimeYear": "98.34%",
     "time": 288,
     "timeDay": 502,
-    "timeWeek": 951,
+    "timeWeek": 957,
     "timeMonth": 829,
     "timeYear": 293,
     "dailyMinutesDown": {
@@ -234,7 +234,7 @@
     "uptimeYear": "98.15%",
     "time": 282,
     "timeDay": 479,
-    "timeWeek": 883,
+    "timeWeek": 889,
     "timeMonth": 816,
     "timeYear": 287,
     "dailyMinutesDown": {
@@ -313,7 +313,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-29": 1082,
+      "2026-08-29": 1200,
       "2026-08-28": 1440,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
@@ -792,15 +792,15 @@
     "url": "https://www.gegi.usherbrooke.ca/horarius/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "horarius-prod",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "87.40%",
-    "uptimeMonth": "93.83%",
-    "uptimeYear": "98.51%",
+    "uptimeDay": "91.77%",
+    "uptimeWeek": "86.26%",
+    "uptimeMonth": "93.57%",
+    "uptimeYear": "98.49%",
     "time": 419,
-    "timeDay": 614,
-    "timeWeek": 644,
+    "timeDay": 637,
+    "timeWeek": 643,
     "timeMonth": 598,
     "timeYear": 419,
     "dailyMinutesDown": {
@@ -859,7 +859,7 @@
       "2026-08-26": 214,
       "2026-08-27": 200,
       "2026-08-28": 578,
-      "2026-08-29": 4
+      "2026-08-29": 118
     }
   },
   {
@@ -875,7 +875,7 @@
     "uptimeYear": "100.00%",
     "time": 335,
     "timeDay": 543,
-    "timeWeek": 558,
+    "timeWeek": 555,
     "timeMonth": 571,
     "timeYear": 337,
     "dailyMinutesDown": {}
@@ -980,7 +980,7 @@
     "uptimeYear": "100.00%",
     "time": 76,
     "timeDay": 200,
-    "timeWeek": 189,
+    "timeWeek": 188,
     "timeMonth": 176,
     "timeYear": 78,
     "dailyMinutesDown": {}
