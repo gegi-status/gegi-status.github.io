@@ -4,16 +4,16 @@
     "url": "https://www.usherbrooke.ca/",
     "icon": "https://www.usherbrooke.ca/favicon.ico",
     "slug": "ude-s-website-prod",
-    "status": "degraded",
-    "uptime": "99.54%",
-    "uptimeDay": "76.52%",
-    "uptimeWeek": "96.65%",
-    "uptimeMonth": "91.25%",
-    "uptimeYear": "97.83%",
+    "status": "up",
+    "uptime": "99.53%",
+    "uptimeDay": "57.07%",
+    "uptimeWeek": "93.87%",
+    "uptimeMonth": "90.61%",
+    "uptimeYear": "97.78%",
     "time": 567,
-    "timeDay": 854,
-    "timeWeek": 599,
-    "timeMonth": 901,
+    "timeDay": 840,
+    "timeWeek": 603,
+    "timeMonth": 903,
     "timeYear": 570,
     "dailyMinutesDown": {
       "2026-07-20": 79,
@@ -67,7 +67,7 @@
       "2026-09-08": 17,
       "2026-09-11": 136,
       "2026-09-15": 35,
-      "2026-09-23": 338
+      "2026-09-23": 618
     }
   },
   {
@@ -77,15 +77,15 @@
     "slug": "faculte-genie-website-prod",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "58.19%",
+    "uptimeDay": "76.63%",
     "uptimeWeek": "90.72%",
     "uptimeMonth": "90.81%",
     "uptimeYear": "97.97%",
     "time": 485,
-    "timeDay": 701,
+    "timeDay": 709,
     "timeWeek": 637,
-    "timeMonth": 819,
-    "timeYear": 491,
+    "timeMonth": 820,
+    "timeYear": 492,
     "dailyMinutesDown": {
       "2026-07-22": 172,
       "2026-07-23": 40,
@@ -155,7 +155,7 @@
     "time": 227,
     "timeDay": 205,
     "timeWeek": 158,
-    "timeMonth": 166,
+    "timeMonth": 165,
     "timeYear": 229,
     "dailyMinutesDown": {}
   },
@@ -173,8 +173,8 @@
     "time": 308,
     "timeDay": 489,
     "timeWeek": 458,
-    "timeMonth": 752,
-    "timeYear": 314,
+    "timeMonth": 755,
+    "timeYear": 315,
     "dailyMinutesDown": {
       "2026-07-02": 195,
       "2026-07-03": 99,
@@ -248,7 +248,7 @@
     "time": 302,
     "timeDay": 438,
     "timeWeek": 451,
-    "timeMonth": 632,
+    "timeMonth": 634,
     "timeYear": 305,
     "dailyMinutesDown": {
       "2026-06-26": 145,
@@ -330,7 +330,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-23": 746,
+      "2026-09-23": 1028,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
       "2026-09-20": 1440,
@@ -729,7 +729,7 @@
     "time": 237,
     "timeDay": 454,
     "timeWeek": 375,
-    "timeMonth": 390,
+    "timeMonth": 391,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2026-06-08": 256,
@@ -805,7 +805,7 @@
     "time": 156,
     "timeDay": 415,
     "timeWeek": 324,
-    "timeMonth": 297,
+    "timeMonth": 298,
     "timeYear": 156,
     "dailyMinutesDown": {}
   },
@@ -815,15 +815,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "horarius-prod",
     "status": "degraded",
-    "uptime": "99.51%",
-    "uptimeDay": "16.95%",
-    "uptimeWeek": "66.51%",
-    "uptimeMonth": "76.03%",
-    "uptimeYear": "97.66%",
+    "uptime": "99.50%",
+    "uptimeDay": "15.64%",
+    "uptimeWeek": "63.71%",
+    "uptimeMonth": "75.38%",
+    "uptimeYear": "97.61%",
     "time": 457,
-    "timeDay": 1118,
+    "timeDay": 1189,
     "timeWeek": 776,
-    "timeMonth": 922,
+    "timeMonth": 925,
     "timeYear": 457,
     "dailyMinutesDown": {
       "2026-07-12": 41,
@@ -881,7 +881,7 @@
       "2026-09-20": 480,
       "2026-09-21": 880,
       "2026-09-22": 619,
-      "2026-09-23": 604
+      "2026-09-23": 886
     }
   },
   {
@@ -896,9 +896,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 359,
-    "timeDay": 758,
+    "timeDay": 794,
     "timeWeek": 686,
-    "timeMonth": 758,
+    "timeMonth": 760,
     "timeYear": 361,
     "dailyMinutesDown": {}
   },
@@ -916,7 +916,7 @@
     "time": 106,
     "timeDay": 385,
     "timeWeek": 314,
-    "timeMonth": 278,
+    "timeMonth": 280,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2026-04-19": 87,
@@ -1007,7 +1007,7 @@
     "time": 89,
     "timeDay": 356,
     "timeWeek": 297,
-    "timeMonth": 317,
+    "timeMonth": 319,
     "timeYear": 90,
     "dailyMinutesDown": {}
   }
