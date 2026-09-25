@@ -4,19 +4,18 @@
     "url": "https://www.usherbrooke.ca/",
     "icon": "https://www.usherbrooke.ca/favicon.ico",
     "slug": "ude-s-website-prod",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.87%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "93.85%",
     "uptimeMonth": "91.19%",
-    "uptimeYear": "97.78%",
+    "uptimeYear": "97.79%",
     "time": 567,
-    "timeDay": 571,
-    "timeWeek": 597,
+    "timeDay": 627,
+    "timeWeek": 604,
     "timeMonth": 825,
     "timeYear": 571,
     "dailyMinutesDown": {
-      "2026-07-20": 79,
       "2026-07-21": 162,
       "2026-07-22": 251,
       "2026-07-24": 34,
@@ -67,7 +66,8 @@
       "2026-09-08": 17,
       "2026-09-11": 136,
       "2026-09-15": 35,
-      "2026-09-23": 618
+      "2026-09-23": 618,
+      "2026-09-25": 1
     }
   },
   {
@@ -330,7 +330,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-25": 747,
+      "2026-09-25": 781,
       "2026-09-24": 1440,
       "2026-09-23": 1440,
       "2026-09-22": 1440,
@@ -816,10 +816,10 @@
     "slug": "horarius-prod",
     "status": "degraded",
     "uptime": "99.45%",
-    "uptimeDay": "52.56%",
-    "uptimeWeek": "55.27%",
-    "uptimeMonth": "72.56%",
-    "uptimeYear": "97.39%",
+    "uptimeDay": "50.19%",
+    "uptimeWeek": "54.93%",
+    "uptimeMonth": "72.49%",
+    "uptimeYear": "97.38%",
     "time": 459,
     "timeDay": 846,
     "timeWeek": 781,
@@ -878,7 +878,7 @@
       "2026-09-22": 619,
       "2026-09-23": 1001,
       "2026-09-24": 973,
-      "2026-09-25": 301
+      "2026-09-25": 335
     }
   },
   {
@@ -904,16 +904,16 @@
     "url": "https://www.gegi.usherbrooke.ca/reservation/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "reservation-prod",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.02%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "98.65%",
+    "uptimeDay": "97.58%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "98.58%",
     "uptimeYear": "95.34%",
     "time": 107,
-    "timeDay": 473,
-    "timeWeek": 328,
-    "timeMonth": 301,
+    "timeDay": 474,
+    "timeWeek": 332,
+    "timeMonth": 302,
     "timeYear": 107,
     "dailyMinutesDown": {
       "2026-04-20": 150,
@@ -987,7 +987,7 @@
       "2026-09-05": 28,
       "2026-09-06": 158,
       "2026-09-09": 62,
-      "2026-09-25": 4
+      "2026-09-25": 35
     }
   },
   {
