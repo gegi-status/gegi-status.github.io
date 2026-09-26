@@ -13,7 +13,7 @@
     "time": 567,
     "timeDay": 676,
     "timeWeek": 617,
-    "timeMonth": 833,
+    "timeMonth": 835,
     "timeYear": 571,
     "dailyMinutesDown": {
       "2026-07-21": 162,
@@ -84,7 +84,7 @@
     "time": 486,
     "timeDay": 671,
     "timeWeek": 643,
-    "timeMonth": 788,
+    "timeMonth": 789,
     "timeYear": 493,
     "dailyMinutesDown": {
       "2026-07-22": 172,
@@ -173,7 +173,7 @@
     "time": 312,
     "timeDay": 497,
     "timeWeek": 458,
-    "timeMonth": 674,
+    "timeMonth": 675,
     "timeYear": 316,
     "dailyMinutesDown": {
       "2026-07-02": 195,
@@ -248,7 +248,7 @@
     "time": 303,
     "timeDay": 471,
     "timeWeek": 456,
-    "timeMonth": 561,
+    "timeMonth": 562,
     "timeYear": 307,
     "dailyMinutesDown": {
       "2026-06-26": 145,
@@ -330,7 +330,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-26": 65,
+      "2026-09-26": 155,
       "2026-09-25": 1440,
       "2026-09-24": 1440,
       "2026-09-23": 1440,
@@ -729,7 +729,7 @@
     "time": 238,
     "timeDay": 420,
     "timeWeek": 385,
-    "timeMonth": 421,
+    "timeMonth": 422,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2026-06-08": 256,
@@ -805,7 +805,7 @@
     "time": 157,
     "timeDay": 368,
     "timeWeek": 328,
-    "timeMonth": 322,
+    "timeMonth": 323,
     "timeYear": 157,
     "dailyMinutesDown": {}
   },
@@ -815,15 +815,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "horarius-prod",
     "status": "degraded",
-    "uptime": "99.44%",
-    "uptimeDay": "61.57%",
-    "uptimeWeek": "53.43%",
-    "uptimeMonth": "72.03%",
-    "uptimeYear": "97.33%",
+    "uptime": "99.43%",
+    "uptimeDay": "58.16%",
+    "uptimeWeek": "52.53%",
+    "uptimeMonth": "71.83%",
+    "uptimeYear": "97.31%",
     "time": 459,
-    "timeDay": 813,
+    "timeDay": 779,
     "timeWeek": 792,
-    "timeMonth": 967,
+    "timeMonth": 970,
     "timeYear": 459,
     "dailyMinutesDown": {
       "2026-07-24": 33,
@@ -878,7 +878,7 @@
       "2026-09-23": 1001,
       "2026-09-24": 973,
       "2026-09-25": 610,
-      "2026-09-26": 4
+      "2026-09-26": 94
     }
   },
   {
@@ -893,9 +893,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 362,
-    "timeDay": 765,
+    "timeDay": 722,
     "timeWeek": 703,
-    "timeMonth": 791,
+    "timeMonth": 793,
     "timeYear": 363,
     "dailyMinutesDown": {}
   },
@@ -913,7 +913,7 @@
     "time": 107,
     "timeDay": 458,
     "timeWeek": 342,
-    "timeMonth": 307,
+    "timeMonth": 308,
     "timeYear": 107,
     "dailyMinutesDown": {
       "2026-04-20": 150,
@@ -1004,7 +1004,7 @@
     "time": 90,
     "timeDay": 388,
     "timeWeek": 315,
-    "timeMonth": 345,
+    "timeMonth": 346,
     "timeYear": 92,
     "dailyMinutesDown": {}
   }
