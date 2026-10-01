@@ -12,7 +12,7 @@
     "uptimeYear": "97.73%",
     "time": 568,
     "timeDay": 581,
-    "timeWeek": 586,
+    "timeWeek": 587,
     "timeMonth": 741,
     "timeYear": 573,
     "dailyMinutesDown": {
@@ -155,7 +155,7 @@
     "uptimeYear": "100.00%",
     "time": 227,
     "timeDay": 207,
-    "timeWeek": 190,
+    "timeWeek": 193,
     "timeMonth": 171,
     "timeYear": 229,
     "dailyMinutesDown": {}
@@ -173,7 +173,7 @@
     "uptimeYear": "98.35%",
     "time": 314,
     "timeDay": 454,
-    "timeWeek": 452,
+    "timeWeek": 450,
     "timeMonth": 533,
     "timeYear": 320,
     "dailyMinutesDown": {
@@ -248,7 +248,7 @@
     "uptimeYear": "98.23%",
     "time": 304,
     "timeDay": 454,
-    "timeWeek": 459,
+    "timeWeek": 458,
     "timeMonth": 490,
     "timeYear": 310,
     "dailyMinutesDown": {
@@ -331,7 +331,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-01": 15,
+      "2026-10-01": 189,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
@@ -729,7 +729,7 @@
     "uptimeYear": "98.27%",
     "time": 239,
     "timeDay": 359,
-    "timeWeek": 389,
+    "timeWeek": 388,
     "timeMonth": 433,
     "timeYear": 239,
     "dailyMinutesDown": {
@@ -805,7 +805,7 @@
     "uptimeYear": "100.00%",
     "time": 158,
     "timeDay": 311,
-    "timeWeek": 320,
+    "timeWeek": 321,
     "timeMonth": 336,
     "timeYear": 158,
     "dailyMinutesDown": {}
@@ -817,13 +817,13 @@
     "slug": "horarius-prod",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "62.54%",
-    "uptimeWeek": "64.67%",
+    "uptimeDay": "66.52%",
+    "uptimeWeek": "65.72%",
     "uptimeMonth": "70.91%",
     "uptimeYear": "97.00%",
     "time": 462,
-    "timeDay": 784,
-    "timeWeek": 700,
+    "timeDay": 768,
+    "timeWeek": 697,
     "timeMonth": 961,
     "timeYear": 462,
     "dailyMinutesDown": {
@@ -893,8 +893,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 365,
-    "timeDay": 755,
-    "timeWeek": 688,
+    "timeDay": 730,
+    "timeWeek": 684,
     "timeMonth": 795,
     "timeYear": 367,
     "dailyMinutesDown": {}
@@ -912,7 +912,7 @@
     "uptimeYear": "95.34%",
     "time": 108,
     "timeDay": 305,
-    "timeWeek": 337,
+    "timeWeek": 339,
     "timeMonth": 322,
     "timeYear": 108,
     "dailyMinutesDown": {
@@ -1003,7 +1003,7 @@
     "uptimeYear": "100.00%",
     "time": 92,
     "timeDay": 294,
-    "timeWeek": 315,
+    "timeWeek": 317,
     "timeMonth": 362,
     "timeYear": 94,
     "dailyMinutesDown": {}
