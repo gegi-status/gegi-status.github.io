@@ -331,7 +331,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-05": 85,
+      "2026-10-05": 184,
       "2026-10-04": 1440,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
@@ -817,10 +817,10 @@
     "slug": "horarius-prod",
     "status": "degraded",
     "uptime": "99.33%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "74.44%",
-    "uptimeMonth": "70.14%",
-    "uptimeYear": "96.80%",
+    "uptimeDay": "92.87%",
+    "uptimeWeek": "73.46%",
+    "uptimeMonth": "69.91%",
+    "uptimeYear": "96.78%",
     "time": 463,
     "timeDay": 609,
     "timeWeek": 684,
@@ -878,7 +878,7 @@
       "2026-10-01": 354,
       "2026-10-02": 722,
       "2026-10-03": 354,
-      "2026-10-05": 4
+      "2026-10-05": 103
     }
   },
   {
