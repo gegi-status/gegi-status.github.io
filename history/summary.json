@@ -333,7 +333,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-24": 76,
+      "2026-10-24": 153,
       "2026-10-23": 1440,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
@@ -821,14 +821,14 @@
     "slug": "horarius-prod",
     "status": "degraded",
     "uptime": "99.09%",
-    "uptimeDay": "95.25%",
+    "uptimeDay": "89.94%",
     "uptimeWeek": "62.52%",
-    "uptimeMonth": "66.61%",
-    "uptimeYear": "95.60%",
+    "uptimeMonth": "66.60%",
+    "uptimeYear": "95.59%",
     "time": 475,
     "timeDay": 628,
     "timeWeek": 783,
-    "timeMonth": 725,
+    "timeMonth": 724,
     "timeYear": 475,
     "dailyMinutesDown": {
       "2026-09-03": 141,
@@ -877,7 +877,7 @@
       "2026-10-21": 981,
       "2026-10-22": 658,
       "2026-10-23": 64,
-      "2026-10-24": 4
+      "2026-10-24": 81
     }
   },
   {
@@ -894,7 +894,7 @@
     "time": 382,
     "timeDay": 608,
     "timeWeek": 727,
-    "timeMonth": 689,
+    "timeMonth": 687,
     "timeYear": 386,
     "dailyMinutesDown": {}
   },
@@ -1005,7 +1005,7 @@
     "timeDay": 284,
     "timeWeek": 371,
     "timeMonth": 339,
-    "timeYear": 104,
+    "timeYear": 105,
     "dailyMinutesDown": {}
   }
 ]
