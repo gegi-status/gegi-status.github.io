@@ -84,7 +84,7 @@
     "time": 508,
     "timeDay": 661,
     "timeWeek": 687,
-    "timeMonth": 636,
+    "timeMonth": 635,
     "timeYear": 517,
     "dailyMinutesDown": {
       "2026-07-25": 185,
@@ -174,7 +174,7 @@
     "time": 331,
     "timeDay": 500,
     "timeWeek": 505,
-    "timeMonth": 466,
+    "timeMonth": 465,
     "timeYear": 336,
     "dailyMinutesDown": {
       "2026-07-03": 99,
@@ -333,7 +333,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-26": 52,
+      "2026-10-26": 107,
       "2026-10-25": 1440,
       "2026-10-24": 1440,
       "2026-10-23": 1440,
@@ -732,7 +732,7 @@
     "time": 246,
     "timeDay": 500,
     "timeWeek": 454,
-    "timeMonth": 421,
+    "timeMonth": 420,
     "timeYear": 246,
     "dailyMinutesDown": {
       "2026-06-08": 81,
@@ -819,16 +819,16 @@
     "url": "https://www.gegi.usherbrooke.ca/horarius/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "horarius-prod",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "41.18%",
-    "uptimeWeek": "56.96%",
-    "uptimeMonth": "66.08%",
-    "uptimeYear": "95.46%",
+    "uptimeDay": "38.75%",
+    "uptimeWeek": "56.98%",
+    "uptimeMonth": "66.07%",
+    "uptimeYear": "95.45%",
     "time": 477,
-    "timeDay": 755,
-    "timeWeek": 785,
-    "timeMonth": 725,
+    "timeDay": 723,
+    "timeWeek": 781,
+    "timeMonth": 723,
     "timeYear": 477,
     "dailyMinutesDown": {
       "2026-09-10": 230,
@@ -874,7 +874,7 @@
       "2026-10-23": 64,
       "2026-10-24": 972,
       "2026-10-25": 843,
-      "2026-10-26": 4
+      "2026-10-26": 56
     }
   },
   {
@@ -882,16 +882,16 @@
     "url": "https://www.gegi.usherbrooke.ca/horarius/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "temporary-horarius-prod-skip-verifying-the-certificate-peer",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 384,
-    "timeDay": 761,
-    "timeWeek": 732,
-    "timeMonth": 689,
+    "timeDay": 721,
+    "timeWeek": 728,
+    "timeMonth": 687,
     "timeYear": 388,
     "dailyMinutesDown": {}
   },
@@ -909,7 +909,7 @@
     "time": 118,
     "timeDay": 451,
     "timeWeek": 385,
-    "timeMonth": 342,
+    "timeMonth": 341,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2026-04-20": 122,
@@ -1001,7 +1001,7 @@
     "time": 104,
     "timeDay": 445,
     "timeWeek": 386,
-    "timeMonth": 341,
+    "timeMonth": 340,
     "timeYear": 106,
     "dailyMinutesDown": {}
   }
