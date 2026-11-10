@@ -12,7 +12,7 @@
     "uptimeYear": "97.63%",
     "time": 585,
     "timeDay": 693,
-    "timeWeek": 617,
+    "timeWeek": 610,
     "timeMonth": 613,
     "timeYear": 589,
     "dailyMinutesDown": {
@@ -76,15 +76,15 @@
     "url": "https://www.usherbrooke.ca/genie/",
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "faculte-genie-website-prod",
-    "status": "degraded",
-    "uptime": "99.58%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.03%",
-    "uptimeYear": "97.93%",
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "80.51%",
+    "uptimeWeek": "97.22%",
+    "uptimeMonth": "98.40%",
+    "uptimeYear": "97.88%",
     "time": 523,
-    "timeDay": 874,
-    "timeWeek": 680,
+    "timeDay": 807,
+    "timeWeek": 675,
     "timeMonth": 635,
     "timeYear": 531,
     "dailyMinutesDown": {
@@ -141,7 +141,7 @@
       "2026-10-18": 106,
       "2026-10-22": 64,
       "2026-11-01": 189,
-      "2026-11-10": 2
+      "2026-11-10": 281
     }
   },
   {
@@ -157,7 +157,7 @@
     "uptimeYear": "100.00%",
     "time": 234,
     "timeDay": 263,
-    "timeWeek": 246,
+    "timeWeek": 243,
     "timeMonth": 236,
     "timeYear": 235,
     "dailyMinutesDown": {}
@@ -175,9 +175,9 @@
     "uptimeYear": "98.30%",
     "time": 339,
     "timeDay": 544,
-    "timeWeek": 483,
+    "timeWeek": 482,
     "timeMonth": 461,
-    "timeYear": 347,
+    "timeYear": 348,
     "dailyMinutesDown": {
       "2026-07-03": 51,
       "2026-07-04": 49,
@@ -252,7 +252,7 @@
     "uptimeYear": "98.18%",
     "time": 328,
     "timeDay": 530,
-    "timeWeek": 495,
+    "timeWeek": 497,
     "timeMonth": 444,
     "timeYear": 337,
     "dailyMinutesDown": {
@@ -337,7 +337,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-10": 790,
+      "2026-11-10": 1070,
       "2026-11-09": 1440,
       "2026-11-08": 1440,
       "2026-11-07": 1440,
@@ -735,7 +735,7 @@
     "uptimeYear": "98.24%",
     "time": 249,
     "timeDay": 510,
-    "timeWeek": 439,
+    "timeWeek": 430,
     "timeMonth": 429,
     "timeYear": 249,
     "dailyMinutesDown": {
@@ -813,7 +813,7 @@
     "uptimeYear": "100.00%",
     "time": 170,
     "timeDay": 486,
-    "timeWeek": 390,
+    "timeWeek": 383,
     "timeMonth": 367,
     "timeYear": 172,
     "dailyMinutesDown": {}
@@ -823,16 +823,16 @@
     "url": "https://www.gegi.usherbrooke.ca/horarius/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "horarius-prod",
-    "status": "degraded",
-    "uptime": "98.93%",
-    "uptimeDay": "54.73%",
-    "uptimeWeek": "46.09%",
-    "uptimeMonth": "60.70%",
-    "uptimeYear": "94.76%",
+    "status": "up",
+    "uptime": "98.91%",
+    "uptimeDay": "35.60%",
+    "uptimeWeek": "44.17%",
+    "uptimeMonth": "60.65%",
+    "uptimeYear": "94.71%",
     "time": 483,
-    "timeDay": 990,
-    "timeWeek": 799,
-    "timeMonth": 742,
+    "timeDay": 922,
+    "timeWeek": 779,
+    "timeMonth": 741,
     "timeYear": 483,
     "dailyMinutesDown": {
       "2026-09-21": 178,
@@ -881,7 +881,7 @@
       "2026-11-07": 785,
       "2026-11-08": 829,
       "2026-11-09": 295,
-      "2026-11-10": 369
+      "2026-11-10": 645
     }
   },
   {
@@ -889,16 +889,16 @@
     "url": "https://www.gegi.usherbrooke.ca/horarius/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "temporary-horarius-prod-skip-verifying-the-certificate-peer",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 395,
-    "timeDay": 889,
-    "timeWeek": 777,
-    "timeMonth": 706,
+    "timeDay": 851,
+    "timeWeek": 759,
+    "timeMonth": 704,
     "timeYear": 400,
     "dailyMinutesDown": {}
   },
@@ -915,7 +915,7 @@
     "uptimeYear": "95.32%",
     "time": 122,
     "timeDay": 440,
-    "timeWeek": 367,
+    "timeWeek": 362,
     "timeMonth": 348,
     "timeYear": 122,
     "dailyMinutesDown": {
@@ -1007,7 +1007,7 @@
     "uptimeYear": "100.00%",
     "time": 110,
     "timeDay": 412,
-    "timeWeek": 371,
+    "timeWeek": 360,
     "timeMonth": 347,
     "timeYear": 113,
     "dailyMinutesDown": {}
