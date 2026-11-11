@@ -13,7 +13,7 @@
     "time": 586,
     "timeDay": 734,
     "timeWeek": 615,
-    "timeMonth": 616,
+    "timeMonth": 617,
     "timeYear": 590,
     "dailyMinutesDown": {
       "2026-07-29": 221,
@@ -85,7 +85,7 @@
     "time": 523,
     "timeDay": 845,
     "timeWeek": 679,
-    "timeMonth": 637,
+    "timeMonth": 638,
     "timeYear": 531,
     "dailyMinutesDown": {
       "2026-07-26": 65,
@@ -158,7 +158,7 @@
     "time": 234,
     "timeDay": 312,
     "timeWeek": 245,
-    "timeMonth": 238,
+    "timeMonth": 239,
     "timeYear": 234,
     "dailyMinutesDown": {}
   },
@@ -176,7 +176,7 @@
     "time": 339,
     "timeDay": 555,
     "timeWeek": 482,
-    "timeMonth": 462,
+    "timeMonth": 463,
     "timeYear": 348,
     "dailyMinutesDown": {
       "2026-07-03": 51,
@@ -253,7 +253,7 @@
     "time": 332,
     "timeDay": 518,
     "timeWeek": 501,
-    "timeMonth": 444,
+    "timeMonth": 445,
     "timeYear": 337,
     "dailyMinutesDown": {
       "2026-06-28": 121,
@@ -337,7 +337,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-11": 227,
+      "2026-11-11": 578,
       "2026-11-10": 1440,
       "2026-11-09": 1440,
       "2026-11-08": 1440,
@@ -736,7 +736,7 @@
     "time": 249,
     "timeDay": 555,
     "timeWeek": 434,
-    "timeMonth": 432,
+    "timeMonth": 433,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2026-06-08": 81,
@@ -814,7 +814,7 @@
     "time": 170,
     "timeDay": 502,
     "timeWeek": 389,
-    "timeMonth": 369,
+    "timeMonth": 370,
     "timeYear": 172,
     "dailyMinutesDown": {}
   },
@@ -823,16 +823,16 @@
     "url": "https://www.gegi.usherbrooke.ca/horarius/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "horarius-prod",
-    "status": "degraded",
-    "uptime": "98.92%",
-    "uptimeDay": "40.20%",
-    "uptimeWeek": "45.55%",
-    "uptimeMonth": "59.84%",
-    "uptimeYear": "94.72%",
+    "status": "up",
+    "uptime": "98.90%",
+    "uptimeDay": "16.07%",
+    "uptimeWeek": "42.43%",
+    "uptimeMonth": "59.05%",
+    "uptimeYear": "94.66%",
     "time": 484,
-    "timeDay": 848,
-    "timeWeek": 777,
-    "timeMonth": 744,
+    "timeDay": 823,
+    "timeWeek": 770,
+    "timeMonth": 745,
     "timeYear": 484,
     "dailyMinutesDown": {
       "2026-09-22": 329,
@@ -881,7 +881,7 @@
       "2026-11-08": 829,
       "2026-11-09": 295,
       "2026-11-10": 821,
-      "2026-11-11": 223
+      "2026-11-11": 570
     }
   },
   {
@@ -889,15 +889,15 @@
     "url": "https://www.gegi.usherbrooke.ca/horarius/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "temporary-horarius-prod-skip-verifying-the-certificate-peer",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 396,
-    "timeDay": 904,
-    "timeWeek": 769,
+    "timeDay": 853,
+    "timeWeek": 758,
     "timeMonth": 711,
     "timeYear": 401,
     "dailyMinutesDown": {}
@@ -916,7 +916,7 @@
     "time": 122,
     "timeDay": 460,
     "timeWeek": 365,
-    "timeMonth": 349,
+    "timeMonth": 350,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2026-04-20": 122,
@@ -1008,7 +1008,7 @@
     "time": 110,
     "timeDay": 465,
     "timeWeek": 363,
-    "timeMonth": 349,
+    "timeMonth": 351,
     "timeYear": 113,
     "dailyMinutesDown": {}
   }
