@@ -12,7 +12,7 @@
     "uptimeYear": "97.63%",
     "time": 586,
     "timeDay": 669,
-    "timeWeek": 616,
+    "timeWeek": 618,
     "timeMonth": 621,
     "timeYear": 591,
     "dailyMinutesDown": {
@@ -84,7 +84,7 @@
     "uptimeYear": "97.88%",
     "time": 524,
     "timeDay": 699,
-    "timeWeek": 685,
+    "timeWeek": 689,
     "timeMonth": 642,
     "timeYear": 533,
     "dailyMinutesDown": {
@@ -157,7 +157,7 @@
     "uptimeYear": "100.00%",
     "time": 235,
     "timeDay": 226,
-    "timeWeek": 226,
+    "timeWeek": 229,
     "timeMonth": 237,
     "timeYear": 234,
     "dailyMinutesDown": {}
@@ -175,7 +175,7 @@
     "uptimeYear": "98.30%",
     "time": 344,
     "timeDay": 529,
-    "timeWeek": 462,
+    "timeWeek": 464,
     "timeMonth": 462,
     "timeYear": 349,
     "dailyMinutesDown": {
@@ -337,7 +337,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-13": 94,
+      "2026-11-13": 248,
       "2026-11-12": 1440,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
@@ -735,7 +735,7 @@
     "uptimeYear": "98.24%",
     "time": 250,
     "timeDay": 513,
-    "timeWeek": 421,
+    "timeWeek": 425,
     "timeMonth": 434,
     "timeYear": 250,
     "dailyMinutesDown": {
@@ -813,7 +813,7 @@
     "uptimeYear": "100.00%",
     "time": 171,
     "timeDay": 389,
-    "timeWeek": 370,
+    "timeWeek": 375,
     "timeMonth": 371,
     "timeYear": 172,
     "dailyMinutesDown": {}
@@ -824,14 +824,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gegi.usherbrooke.ca.ico",
     "slug": "horarius-prod",
     "status": "degraded",
-    "uptime": "98.95%",
-    "uptimeDay": "89.05%",
-    "uptimeWeek": "56.96%",
-    "uptimeMonth": "60.16%",
-    "uptimeYear": "94.85%",
+    "uptime": "98.94%",
+    "uptimeDay": "78.40%",
+    "uptimeWeek": "55.68%",
+    "uptimeMonth": "59.81%",
+    "uptimeYear": "94.83%",
     "time": 485,
     "timeDay": 771,
-    "timeWeek": 768,
+    "timeWeek": 774,
     "timeMonth": 748,
     "timeYear": 485,
     "dailyMinutesDown": {
@@ -882,7 +882,7 @@
       "2026-11-10": 821,
       "2026-11-11": 612,
       "2026-11-12": 154,
-      "2026-11-13": 3
+      "2026-11-13": 157
     }
   },
   {
@@ -898,7 +898,7 @@
     "uptimeYear": "100.00%",
     "time": 397,
     "timeDay": 761,
-    "timeWeek": 747,
+    "timeWeek": 745,
     "timeMonth": 715,
     "timeYear": 402,
     "dailyMinutesDown": {}
@@ -1008,7 +1008,7 @@
     "uptimeYear": "100.00%",
     "time": 111,
     "timeDay": 369,
-    "timeWeek": 344,
+    "timeWeek": 347,
     "timeMonth": 351,
     "timeYear": 114,
     "dailyMinutesDown": {}
