@@ -8,7 +8,7 @@
     "uptime": "99.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.11%",
+    "uptimeMonth": "98.29%",
     "uptimeYear": "97.63%",
     "time": 586,
     "timeDay": 557,
@@ -337,7 +337,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-16": 149,
+      "2026-11-16": 232,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
       "2026-11-13": 1440,
@@ -825,10 +825,10 @@
     "slug": "horarius-prod",
     "status": "degraded",
     "uptime": "98.95%",
-    "uptimeDay": "93.86%",
-    "uptimeWeek": "70.73%",
+    "uptimeDay": "88.13%",
+    "uptimeWeek": "69.91%",
     "uptimeMonth": "59.42%",
-    "uptimeYear": "94.86%",
+    "uptimeYear": "94.85%",
     "time": 485,
     "timeDay": 696,
     "timeWeek": 710,
@@ -883,7 +883,7 @@
       "2026-11-13": 458,
       "2026-11-14": 535,
       "2026-11-15": 85,
-      "2026-11-16": 3
+      "2026-11-16": 86
     }
   },
   {
